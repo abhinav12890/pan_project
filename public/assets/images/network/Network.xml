@@ -1,0 +1,136 @@
+﻿<network>
+  <officer>
+    <place>AHMEDABAD</place>
+    <name>Mr. Sachin Jain</name>
+    <add1>Rajyash Reyansh</add1>
+    <add2>D-304, B/H G.B Shah College, Shahwadi, Vasna</add2>
+    <add3>Ahmedabad – 380 007, Gujarat</add3>
+    <phone>Mobile : +91 9582072261</phone>
+    <email>E-Mail: sachinjain@panindiagroup.com</email>
+  </officer>
+   <officer>
+    <place>BENGALURU</place>
+    <name>Mr. Aswin A.S.</name>
+    <add1>Flat No : G-5, Amrutha Avenue Apartment</add1>
+    <add2>2nd main, Muni Reddy layout</add2>
+    <add3>Horamavu, Bengaluru – 560043, Karnataka</add3>
+    <phone>Mobile : +91 9742175219</phone>
+    <email>E-Mail: aswinas@panindiagroup.com</email>
+  </officer>
+  <officer>
+    <place>CHENNAI</place>
+    <name>Mr. Mohan C.</name>
+    <add1>No. 23, 2nd Floor, PTK Nagar</add1>
+    <add2>SRP Tools Back Side, Thiruvanmiyur</add2>
+    <add3>Chennai- 600 041, Tamil Nadu</add3>
+    <phone>Mobile +91 8056646714</phone>
+    <email>E-mail: mohan@panindiagroup.com</email>
+  </officer>
+  <officer>
+    <place>DEHRADUN</place>
+    <name>Mr. Pankaj Kumar Mahato</name>
+    <add1>114/97 Koushik Niwas</add1>
+    <add2>Block 2, Lane 4, Arya Nagar</add2>
+    <add3>Dehradun - 248 001, Uttarakhand</add3>
+    <phone>Mobile: +91 9681933468, +91 7044369785</phone>
+    <email>E-Mail: pankajmahato@panindiagroup.com</email>
+  </officer>
+  <officer>
+    <place>DEHRADUN</place>
+    <name>Mr. Inderjeet Bohra</name>
+    <add1>Vill &amp; P.O. - Sinola</add1>
+    <add2>Supply Road</add2>
+    <add3>Dehradun - 248 003, Uttarakhand</add3>
+    <phone>Mobile: +91 9999516165</phone>
+    <email>E-Mail: inderjeetbohra@panindiagroup.com</email>
+  </officer>
+  <officer>
+    <place>GOA</place>
+    <name>Mr. Govind Ranade</name>
+    <add1>T/3, Adwalpalkar Shelter</add1>
+    <add2>A2 Wing, 4th Floor, Opp. Kamat Classic</add2>
+    <add3>Phase-4, Morod - Caranzalem - 403 002, Goa</add3>
+    <phone>Mobile: +91 9860205546</phone>
+    <email>E-Mail: granade@panindiagroup.com</email>
+  </officer>
+  <officer>
+    <place>HYDERABAD</place>
+    <name>Mr. Mamidi Narsaiah</name>
+    <add1>H.No. 3-5-87/1</add1>
+    <add2>Sreenagar Colony, Ramanthapur</add2>
+    <add3>Hyderabad - 500 013</add3>
+    <phone>Mobile: +91 8332080291 9849727686</phone>
+    <email>E-Mail: mamidin@panindiagroup.com</email>
+  </officer>
+  <officer>
+    <place>JHARKHAND</place>
+    <name>Mr. Umesh Kumar</name>
+    <add1>At Nutan Nagar Colony</add1>
+    <add2>Post Box: Korrah</add2>
+    <add3>Dist: Hazaribagh  301, Jharkhand</add3>
+    <phone>Mobile: +91 7838276357, +91 9650797647</phone>
+    <email>E-Mail: umeshkumar@panindiagroup.com</email>
+  </officer>
+  <officer>
+    <place>KHARAGPUR</place>
+    <name>Mr. Dauphin Kumar Dolai</name>
+    <add1>Barbetia, Kharagpur</add1>
+    <add2>Paschim Medinipur, P.O: Changual</add2>
+    <add3>PS: Kharagpur Town - 721 301, West Bengal</add3>
+    <phone>Mobile : +91 9818254439</phone>
+    <email>E-Mail: dauphin@panindiagroup.com</email>
+  </officer>
+  <officer>
+    <place>KOCHI</place>
+    <name>Mr. Kiran VS</name>
+    <add1>Kochi - 682 001, Kerala</add1>
+    <add2>Mobile: +91 8547551604</add2>
+    <email>E-Mail: kiranvs@panindiagroup.com</email>
+  </officer>
+
+  <officer>
+    <place>KOLKATA</place>
+    <name>Mr. S. K. Mandal</name>
+    <add1>58, Regent Colony, 1st Floor</add1>
+    <add2>Malancha, Tollygunge</add2>
+    <add3>Kolkata - 700 040, West Bengal</add3>
+    <phone>Mobile : +91 9433021018 Tele Fa1 33-2499-7647</phone>
+    <email>E-Mail: paie@panindiagroup.com</email>
+  </officer>
+  <officer>
+    <place>MUMBAI</place>
+    <name>Mr. Vivek Kholase</name>
+    <add1>Office No. 120</add1>
+    <add2>B Wing, Sai Chamber, Sector-11, CBD Belapur</add2>
+    <add3>Navi Mumbai - 400 614, Maharashtra</add3>
+    <phone>Mobile: +91 9870941421, +91 7977372464</phone>
+    <email>E-Mail: vivekk@panindiagroup.com</email>
+  </officer>
+  <officer>
+    <place>PATNA</place>
+    <name>Mr. Ashwani Soni</name>
+    <add1>Hari Niwas, Indian Machinery Campus</add1>
+    <add2>Nea Kumhrar Park, Kumhrar Sampatchak</add2>
+    <add3>Patna  - 800 026, Bihar</add3>
+    <phone>Mobile: +91 8757907157</phone>
+    <email>E-Mail: ashwanisoni@panindiagroup.com</email>
+  </officer>
+  <officer>
+    <place>TRIVANDRUM</place>
+    <name>Mr. Gokul Gk</name>
+    <add1>Anizham, C/o Kuchumannakkal, Veedu Pazhayakada</add1>
+    <add2>Thirupuram, PO Neyyattinkara</add2>
+    <add3>Trivandrum - 695 133,</add3>
+    <phone>Mobile: +91 9745824339</phone>
+    <email>E-mail: gokul@panindiagroup.com</email>
+  </officer>
+  <officer>
+    <place>VISHAKAPATNAM</place>
+    <name>Mr. Gopi Yadav G</name>
+    <add1>Door No.38-31-89/1, Flat No. 502</add1>
+    <add2>Teja Apartment, Sri Harsh Nagar, Marripalem</add2>
+    <add3>Visakhapatnam - 530 018</add3>
+    <phone>Mobile: +91 7995881959</phone>
+    <email>E-Mail: gopiyadav@panindiagroup.com</email>
+  </officer>
+</network>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<miningsolutions>
+	<product>
+		<product_title>Microdrones UAVs</product_title>
+		 <product_image>MicroUAV.jpg</product_image>
+		 <product_info>Less expensive than the helicopters traditionally used by the industry to gain an aerial perspective, drones are providing mining companies with mapping abilities that provide better results and drastically improved flexibility for a fraction of the cost</product_info>
+         <product_document></product_document>
+	</product>
+	<product>    
+		<product_title>PPK Technology</product_title>
+		 <product_image>PPKTech.jpg</product_image>
+		 <product_info><p>Establishing Ground Control Point (GCP) network is the tedious, time-consuming and often not-feasible process. Accuracies depend on the distribution and quantity of GCPs. Our drones are in-built with PPK technology.</p>
+<p>No GCPs | Accurate – Consistent – Reliable Survey data</p>
+<p>PPK, short for Post-Processing Kinematics, is the same technology that the ground-based DGPS instruments use. We have just built this on-board the Insight-PPK.</p></product_info>
+         <product_document></product_document>
+	 </product>
+	 <product>    
+		<product_title>Spectra Geospatial SP 85</product_title>
+		 <product_image>SP85.jpg</product_image>
+		 <product_info><p>The Spectra Geospatial®SP85 is a next generation GNSS receiver that combines decades of GNSS RTK technology with revolutionary new GNSS processing. Featuring the new 600-channel “7G” chipset combined with the patented Z-Blade™ technology, the SP85 system is optimized for tracking and processing signals from all GNSS constellations in challenging environments.</p>
+<p>With unmatched connectivity in the GNSS receiver market, the SP85 offers a unique combination of integrated 3.5G cellular, L-band satellite capable GNSS antenna, WiFi and UHF communications with SMS, email and anti-theft technology. These powerful capabilities, packaged in an ultra-rugged housing and patented antenna design, make SP85 an extremely versatile turnkey solution that can be used with unlimited operation time because of the SP85’s hot-swappable, dual battery setup.
+</p></product_info>
+         <product_document></product_document>
+	 </product>
+	 <product>    
+		<product_title>Focus 35</product_title>
+		 <product_image>Focus35.jpg</product_image>
+		 <product_info>The FOCUS 35 is a motorized total station providing high speed, accuracy and precision in measurement. The FOCUS 35 robotic instrument moves the power of the observer from the instrument to the range pole, improving efficiency. The speed of observation and precise positioning of the FOCUS 35 Robotic Total Station is provided by patented StepDrive™ motion technology, which controls the horizontal and vertical motion of the motors, eliminating the need for traditional motion locks. The FOCUS 35 includes a tracking sensor that uses LockNGo™ FastTrack tracking technology, enabling the instrument to constantly lock onto the prism.The FOCUS 35 RX extended operation models feature market-leading battery life.
+The FOCUS 35 is available in 1”, 2”, 3” or 5” accuracies and is controlled by the Spectra Geospatial Survey Pro™ field software using an onboard Windows CE touchscreen interface. The FOCUS 35 is also designed to be controlled externally by Ranger™, Nomad™, or T41® data collectors running Survey Pro field software, Layout Pro or FAST Survey on the Ranger or Nomad. Alternatively, bring your own controller and connect to the FOCUS 35 using Bluetooth or the SPDL Radio Bridge.
+</product_info>
+         <product_document></product_document>
+	 </product>
+	 <product>    
+		<product_title>Trimble SX10</product_title>
+		 <product_image>SX10.jpg</product_image>
+		 <product_info>The Trimble® SX10 scanning total station redefines the capabilities of everyday survey equipment by providing the world's most innovative solution for surveying, engineering, and scanning professionals. The Trimble SX10 will change the way you work. This new, versatile solution is capable of collecting any combination of high-density 3D scan data, enhanced Trimble VISION imaging, and high-accuracy total station data, allowing you to capture exactly what you need, saving you time and money on every job. Trimble’s new Lightning 3DM enables the SX10 to capture both high-accuracy total station measurements and true high-speed 3D scans together in a single instrument providing a higher level of accuracy and measurement performance than ever before. </product_info>
+         <product_document></product_document>
+	 </product>
+</miningsolutions>
+
+ 
+<!-- <miningsolutions>
+	<product>    
+		<product_title></product_title>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+	 </product>
+</miningsolutions>  -->
+

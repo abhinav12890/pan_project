@@ -1,0 +1,84 @@
+.service_block {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 2.08vh;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+
+    @media only screen and (max-width: 1060px) {
+        grid-template-columns: auto auto;
+    }
+
+    @media only screen and (max-width: 768px) {
+        grid-template-columns: auto;
+    }
+
+}
+
+.service_grid_container {
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s;
+    // height: 25vh;
+    height: 15vh;
+    border: 2px solid #022140;
+    // box-shadow: 1px 1px 0px #022140,
+        //     2px 2px 0px #022140,
+        //     3px 3px 0px #022140,
+        //     4px 4px 0px #022140,
+        //     5px 5px 0px #022140,
+        //     6px 6px 0px #022140;
+        // box-shadow: 
+        // 0px 20px 15px -13px #022140, /* for top side */
+        // 0px -20px 15px -13px #022140, /* for bottom side */
+        // -20px 0px 15px -13px #022140, /* for left side */
+        // 20px 0px 15px -13px #022140; /* for right side */
+
+    &:hover {
+        img {
+            transform: scale(1.1);
+            filter: blur(8px);
+            -webkit-filter: blur(8px);
+        }
+
+        transform: translateY(-10px);
+        box-shadow: 0px 20px 15px -13px #022140;    
+
+
+        .service_container__text {
+            display: inline-block;
+            opacity: 1;
+            background-color: rgb(0, 0, 0);
+            /* Fallback color */
+            background-color: rgba(0, 0, 0, 0.4);
+            /* Black w/opacity/see-through */
+            color: white;
+            font-weight: bold;
+            border: 3px solid #f1f1f1;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 1;
+            width: 80%;
+            padding: 20px;
+            text-align: center;
+
+            @media only screen and (max-width: 1298px) {
+                width: 50%;
+            }
+        }
+    }
+
+    img {
+        object-fit: contain;
+        height: 100%;
+        width: 100%;
+        transition: all 0.3s;
+    }
+
+    .service_container__text {
+        display: none;
+    }
+}

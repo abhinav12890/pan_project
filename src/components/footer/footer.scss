@@ -1,0 +1,126 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #022140;
+  color: rgb(255, 255, 255);
+  position: relative;
+  bottom: 0;
+  width: 100%;
+
+  .footer__container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+    margin: 10px 10px;
+
+    @media only screen and (max-width: 800px) {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .footer__left {
+      width: 48%;
+      text-align: center;
+
+      h4 {
+        padding: 10px;
+      }
+
+      .icons {
+        display: flex;
+        justify-content: center;
+
+        a {
+          text-decoration: none;
+          z-index: 2;
+
+          .icon1 {
+            color: #3b5998;
+            font-size: 3rem;
+            padding: 0.5rem;
+
+            @media only screen and (max-width: 800px) {
+              font-size: 2rem;
+            }
+
+            &:hover {
+              box-shadow: 0 5px 15px #3b5998;
+            }
+          }
+
+          .icon2 {
+            color: #0072b1;
+            font-size: 3rem;
+            padding: 0.5rem;
+
+            @media only screen and (max-width: 800px) {
+              font-size: 2rem;
+            }
+
+            &:hover {
+              box-shadow: 0 5px 15px #0072b1;
+            }
+          }
+        }
+      }
+
+    }
+
+    .footer__right {
+      width: 48%;
+      text-align: center;
+
+
+      h4 {
+        padding: 10px;
+      }
+
+      .location {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+      }
+
+      .add {
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .locicon {
+        color: red;
+        font-size: 3rem;
+        display: none;
+      }
+
+      &:hover {
+        .add {
+          display: none;
+        }
+
+        .locicon {
+          display: flex;
+          justify-content: center;
+          box-shadow: 0 5px 15px #ec2323;
+        }
+      }
+    }
+
+
+  }
+
+  .footer__bottom {
+    margin-top: auto;
+
+    p {
+      @media only screen and (max-width: 800px) {
+        font-size: 0.8rem;
+      }
+    }
+  }
+
+}

@@ -1,0 +1,74 @@
+.carousel {
+  width: 100%;
+  height: auto;
+  position: relative;
+
+  .slick-prev {
+    position: absolute;
+    z-index: 1;
+    left: 0;
+
+    &:before {
+      color: rgb(0, 0, 0);
+      font-weight: 800;
+
+    }
+  }
+
+  .slick-next {
+    position: absolute;
+    z-index: 1;
+    right: 0;
+
+    &:before {
+      color: rgb(0, 0, 0);
+      font-weight: 800;
+    }
+  }
+
+  .slick-slider {
+    width: 100%;
+    height: 100%;
+
+    .slick-list {
+      height: 100%;
+
+      .slick-slide>div {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        img {
+          max-height: 100%;
+          max-width: 100%;
+          object-fit: cover;
+        }
+      }
+    }
+
+    .slick-dots {
+      bottom: 30px;
+
+      li {
+        margin: 0 4px;
+        width: 10px;
+        height: 10px;
+        button:before {
+          content: "";
+          width: 100%;
+          height: 100%;
+          border-radius: 50%;
+          background-color: rgba(255, 255, 255, 0.5);
+
+        }
+
+        &.slick-active {
+          button:before {
+            background-color: #fff;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,137 @@
+.sec {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #265077;
+    color: #ffffff;
+
+    .banner {
+        height: auto;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 1;
+
+        img {
+            height: auto;
+            width: 100%;
+            object-fit: fill;
+        }
+    }
+
+    .mid {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-bottom: 3vh;
+
+
+        .title {
+            width: 80%;
+            display: flex;
+            justify-content: center;
+            font-weight: 400;
+            font-size: 2rem;
+            background-color: #000000;
+            color: #ffffff;
+            margin: 10px;
+            padding: 5px;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-right-radius: 10px;
+            border-bottom-left-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+            z-index: 1;
+
+            &:hover {
+                background-color: #022140;
+                box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+            }
+
+            &:active {
+                box-shadow: none;
+                transform: translateY(1px);
+            }
+        }
+        .stattext {
+            width: 80%;
+            display: flex;
+            justify-content: center;
+            z-index: 1;
+            text-align: justify;
+            margin-bottom: 1rem;
+            padding: 2rem;
+            font-size: 1.5rem;
+        }
+        .soft {
+            margin-top: 2vh;
+            width: 80%;
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            grid-auto-rows: auto;
+            gap: 1rem;
+            justify-items: center;
+
+            @media only screen and (max-width: 1550px) {
+                grid-template-columns: repeat(3, 1fr);
+
+            }
+
+            @media only screen and (max-width: 1142px) {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            @media only screen and (max-width: 705px) {
+                grid-template-columns: 1fr;
+            }
+
+        }
+
+        .modal {
+            position: fixed;
+            z-index: 9999;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgba(0, 0, 0, 0.5);
+
+            .modal-content {
+                position: relative;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                padding: 20px;
+                max-width: 90%;
+                max-height: 90%;
+                background-color: #265077;
+                color: #ffffff;
+                overflow-y: auto;
+
+                h2 {
+                    font-size: 24px;
+                    margin-bottom: 10px;
+                }
+
+                p {
+                    font-size: 18px;
+                }
+
+                .close {
+                    position: absolute;
+                    top: 0px;
+                    right: 0px;
+                    font-size: 24px;
+                    cursor: pointer;
+                    padding: 0.3rem;
+                }
+            }
+        }
+    }
+
+}

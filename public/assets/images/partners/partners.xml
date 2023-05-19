@@ -1,0 +1,304 @@
+<partners>
+<oem>
+			<name>Aarav Unmanned Systems</name>
+			<website>https://aus.co.in/</website>
+			<logo><img src="images/partners/AaravUnmannedSystems.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Advanced Navigation</name>
+			<website>https://www.advancednavigation.com.au/</website>
+			<logo><img src="images/partners/AdvancedNavigation.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Applied Acoustics</name>
+			<website>https://appliedacoustics.com/</website>
+			<logo><img src="images/partners/AppliedAcoustics.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>BATEGU Gummitechnologie GmbH, Austria</name>
+			<website>http://www.bategu.at/en/home.html</website>
+			<logo><img src="images/partners/Bategu.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Delta Epsilon Instruments</name>
+			<website>https://deltaepsilon.com/</website>
+			<logo><img src="images/partners/DeltaEpsilon.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Dynamic Load Monitoring</name>
+			<website>https://www.dlm-uk.com/</website>
+			<logo><img src="images/partners/DLM.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>EASYDUR ITALIANA di Renato Affri, Italia</name>
+			<website>https://www.easydur.com/en/</website>
+			<logo><img src="images/partners/EasyDur.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Eiva</name>
+			<website>https://www.eiva.com/</website>
+			<logo><img src="images/partners/Eiva.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Febus Optics</name>
+			<website>http://www.febus-optics.com/en/</website>
+			<logo><img src="images/partners/FebusOptics.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>GEObit</name>
+			<website>https://geobit-instruments.com/</website>
+			<logo><img src="images/partners/Geobit.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Geotek</name>
+			<website>https://www.geotek.co.uk/</website>
+			<logo><img src="images/partners/Geotek.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Green Eyes</name>
+			<website>http://gescience.com/</website>
+			<logo><img src="images/partners/GreenEyes.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Federnwerke JP Grueber GmbH and Co. KG, Hagen, Germany</name>
+			<website>https://grueber.de/en/</website>
+			<logo><img src="images/partners/Grueber.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Holmatro Rescue Equipment B.V., Netherlands</name>
+			<website>https://www.holmatro.com/en/rescue</website>
+			<logo><img src="images/partners/holmatro.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>HYDRO-BIOS</name>
+			<website>https://www.hydrobios.de/</website>
+			<logo><img src="images/partners/HydroBios.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Ikon Science</name>
+			<website>https://www.ikonscience.com/</website>
+			<logo><img src="images/partners/IkonScience.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>IMAGENEX</name>
+			<website>https://imagenex.com/</website>
+			<logo><img src="images/partners/Imagenex.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Impact Subsea</name>
+			<website>https://www.impactsubsea.co.uk/</website>
+			<logo><img src="images/partners/ImpactSubsea.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>ITER Systems</name>
+			<website>https://www.iter-systems.com/</website>
+			<logo><img src="images/partners/IterSystems.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>JFE Advantech</name>
+			<website>https://www.jfe-advantech.co.jp/eng/ocean/</website>
+			<logo><img src="images/partners/JfeAdvantech.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Klein Marine Systems</name>
+			<website>http://kleinmarinesystems.com/</website>
+			<logo><img src="images/partners/Klein.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>ITT Holdings Czech Republic S.R.O., Ostrava, Czech Republic</name>
+			<website>http://www.koni.com/en-US/Index/</website>
+			<logo><img src="images/partners/Koni.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Lippmann</name>
+			<website>https://www.l-gm.de/index.html</website>
+			<logo><img src="images/partners/Lippmann.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>LYYN</name>
+			<website>http://www.lyyn.com/</website>
+			<logo><img src="images/partners/Lyyn.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Marine Magnetics</name>
+			<website>http://www.marinemagnetics.com/</website>
+			<logo><img src="images/partners/MarineMagnetics.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>MetOcean Systems</name>
+			<website>https://www.metocean.com/shop/metocean-systems/</website>
+			<logo><img src="images/partners/MetOcean.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Nortek</name>
+			<website>https://www.nortekgroup.com/</website>
+			<logo><img src="images/partners/Nortek.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Ocean Sonics</name>
+			<website>https://oceansonics.com/</website>
+			<logo><img src="images/partners/OceanSonics.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>OceanTools</name>
+			<website>http://www.oceantools.co.uk/</website>
+			<logo><img src="images/partners/OceanTools.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Oceanwaves Rutter</name>
+			<website>https://rutter.ca/wamos/</website>
+			<logo><img src="images/partners/OceanWavesRutter.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Ohmex</name>
+			<website>http://www.ohmex.com/</website>
+			<logo><img src="images/partners/Ohmex.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Ocean Scientific International Ltd </name>
+			<website>https://osil.com/</website>
+			<logo><img src="images/partners/OSIL.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Quester Tangent</name>
+			<website>https://www.questertangent.com/</website>
+			<logo><img src="images/partners/QTC.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Radac</name>
+			<website>https://www.radac.nl/</website>
+			<logo><img src="images/partners/Radac.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Rockland Scientific</name>
+			<website>https://rocklandscientific.com/</website>
+			<logo><img src="images/partners/RocklandScientific.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Romica Engineering Limited</name>
+			<website>http://romica.co.uk/</website>
+			<logo><img src="images/partners/Romica.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>SBG Systems</name>
+			<website>https://www.sbg-systems.com/</website>
+			<logo><img src="images/partners/SbgSystems.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Sea &amp; Sun Technology</name>
+			<website>https://www.sea-sun-tech.com/</website>
+			<logo><img src="images/partners/SeaSun.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Sensys</name>
+			<website>https://sensysmagnetometer.com/</website>
+			<logo><img src="images/partners/Sensys.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Sercel</name>
+			<website>https://www.sercel.com/</website>
+			<logo><img src="images/partners/Sercel.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>SOCIETA’ GOMMA ANTIVIBRANTE, MILANO, ITALY</name>
+			<website>https://www.sgaopera.it/en/</website>
+			<logo><img src="images/partners/Sgaopera.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>SIDUS</name>
+			<website>https://www.sidus-solutions.com/</website>
+			<logo><img src="images/partners/Sidus.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>SOUND METRICS</name>
+			<website>http://www.soundmetrics.com/</website>
+			<logo><img src="images/partners/SoundMetrics.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Spectra Geospatial</name>
+			<website>https://spectrageospatial.com/</website>
+			<logo><img src="images/partners/SpectraGeospatial.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>SubC Imaging</name>
+			<website>https://www.subcimaging.com/</website>
+			<logo><img src="images/partners/SubCImaging.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>SubCtech</name>
+			<website>https://subctech.com/</website>
+			<logo><img src="images/partners/SubCTech.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>SyQwest</name>
+			<website>https://www.syqwestinc.com/</website>
+			<logo><img src="images/partners/SyQwest.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Teledyne Marine BOWTECH</name>
+			<website>http://www.teledynemarine.com/bowtech</website>
+			<logo><img src="images/partners/TeledyneBowtech.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Teledyne CARIS</name>
+			<website>http://www.teledynecaris.com/en/home/</website>
+			<logo><img src="images/partners/TeledyneCaris.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Teledyne GAVIA ehf.</name>
+			<website>http://www.teledynemarine.com/gavia/</website>
+			<logo><img src="images/partners/TeledyneGavia.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Teledyne IMPULSE</name>
+			<website>http://www.teledynemarine.com/impulse</website>
+			<logo><img src="images/partners/TeledyneImpulse.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Teledyne Marine ODOM HYDROGRAPHIC</name>
+			<website>http://www.teledynemarine.com/odom-hydrographic</website>
+			<logo><img src="images/partners/TeledyneOdom.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Teledyne MARINE</name>
+			<website>http://www.teledynemarine.com/SitePages/HomePage.aspx</website>
+			<logo><img src="images/partners/TeledyneMarine.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Teledyne Marine RESON</name>
+			<website>http://www.teledynemarine.com/reson</website>
+			<logo><img src="images/partners/TeledyneReson.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Teledyne Marine TSS</name>
+			<website>http://www.teledynemarine.com/tss</website>
+			<logo><img src="images/partners/TeledyneTss.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Teledyne WEBB RESEARCH</name>
+			<website>http://www.teledynemarine.com/webb-research/</website>
+			<logo><img src="images/partners/TeledyneWebbResearch.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Trimble</name>
+			<website>https://www.trimble.com/</website>
+			<logo><img src="images/partners/Trimble.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>US Radar Inc.</name>
+			<website>https://usradar.com/</website>
+			<logo><img src="images/partners/USRadar.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>VideoRay</name>
+			<website>https://www.videoray.com/</website>
+			<logo><img src="images/partners/VideoRay.jpg"/></logo>
+		</oem>
+		<oem>
+			<name>Vista Clara</name>
+			<website>https://www.vista-clara.com/</website>
+			<logo><img src="images/partners/VistaClara.jpg"/></logo>
+		</oem>
+</partners>
+
+

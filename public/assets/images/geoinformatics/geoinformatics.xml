@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geoinformatics>
+<group>
+      <family>
+         <family_name>Natural Resource Mapping &amp; Management</family_name>
+		 <family_intro></family_intro>
+         <family_image>GeoInfoGeomatNaturalResource.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Soil</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Slope / Aspect</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Geomorphology</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Landuse / Landcover</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Geology / Mineral</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Wasteland Mapping</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Hydrology (Ground Water)</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Sodic Land Mapping</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   
+   <group>
+      <family>
+         <family_name>Land Record Management</family_name>
+		 <family_intro></family_intro>
+         <family_image>GeoInfoGeomatlandSurvey.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Computerization of Land Records</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Digitization of Old Land Records</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Updation using Conventional Survey, Photogrammetry and high resolution Satellite images</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Land Information System Development/Customization</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Data dissemination - Internet/Intranet village kiosks</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  </group>
+	  <group>
+      <family>
+         <family_name>Urban Planning &amp; Management</family_name>
+		 <family_intro></family_intro>
+         <family_image>GeoInfoGeomatUrban.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Large Scale Urban Mapping</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Urban Sprawl Analysis</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Site selection for various utilities</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Infrastructural Mapping &amp; Management</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Facility Management</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Environment Impact Assessment &amp; Analysis</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+<group>
+      <family>
+         <family_name>Digital Terrain Modelling</family_name>
+		 <family_intro></family_intro>
+         <family_image>GeoInfoGeomatDTM.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Hazard Modelling ( Landscape, Flash Flood, Snow Avalanche and Flood etc. )</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Alignment ( Highway, Canal, Tunnel etc. )</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Mining Excavation</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Land Evaluation</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>3D Visual Analysis</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Terrain Analysis (Volume calculation, Line of sight, Slope etc)</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group> 
+<group>
+      <family>
+         <family_name>Geographical Information System (GIS)</family_name>
+		 <family_intro></family_intro>
+         <family_image>GeoInfoGeomatGIS.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Development of Decision Support System</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Customization of System</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Integration of various database</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Analysis : Proximity, Buffering, Network etc.</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Format Conversion</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Digitization from Old Paper Maps</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Web based GIS</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>   
+   
+   <group>
+      <family>
+         <family_name>Remote Sensing Services</family_name>
+		 <family_intro></family_intro>
+         <family_image>GeoInfoGeomatRemoteSensing.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Procurement of appropriate satellite data</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Georeferencing</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Ortho - Image Generation</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Digital Classification &amp; Interpretation</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Features Extraction</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Map Generation</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group> 
+   <group>
+      <family>
+         <family_name>Photogrammetry</family_name>
+		 <family_intro></family_intro>
+         <family_image>GeoInfoGeomatPhotogrammetry.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Aerial Triangulation</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Ortho - Photo Generation</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Mosaicing</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Features Extraction</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>GPS/DGPS based Land Survey</family_name>
+		 <family_intro></family_intro>
+         <family_image>GeoInfoGeomatGPS.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Land Parcel Survey</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Topographical Mapping</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Location/Point Survey</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+</geoinformatics>
+
+ <!-- <group>
+      <family>
+         <family_name></family_name>
+		 <family_intro></family_intro>
+         <family_image></family_image>
+      </family>
+      <product>
+         <product_name></product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group> -->

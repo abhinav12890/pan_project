@@ -1,0 +1,22 @@
+.partner {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #265077;
+    color: #ffffff;
+
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        z-index: 1;
+
+    }
+
+    .form-image {
+        width: 150px;
+        height: 150px;
+        object-fit: fill;
+        margin: 10px;
+    }
+}

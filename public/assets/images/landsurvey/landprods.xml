@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<land>
+  <group>
+      <family>
+         <family_name>GNSS SURVEYING</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/landsurvey/SP85_1.jpg</family_image>
+      </family>
+      <product>
+         <product_name>SP85 GNSS Receiver</product_name>
+         <product_id>GNSSS_SP85</product_id>
+		 <product_image>images/landsurvey/SP85.jpg</product_image>
+		 <product_info><strong>Features &amp; Benefits:</strong>
+<ul>
+<li>Patented Z-Blade™ technology</li>
+<li>600-channel 6G ASIC</li>
+<li>Hot-swappable batteries</li>
+<li>Internal TxRx UHF radio</li>
+<li>L-band satellite capable GNSS antenna</li>
+<li>3.5G cellular modem</li>
+<li>Built-in WiFi communication</li>
+<li>SMS and e-mail alerts</li>
+<li>Anti-theft technology</li>
+<li>Backup RTK</li>
+<li>RTK bridge</li>
+<li>eLevel technology</li>
+<li>Trimble® RTX correction services</li>
+</ul>
+<strong>Overview</strong><br/>
+The Spectra Geospatial®SP85 is a next generation GNSS receiver that combines decades of GNSS RTK technology with revolutionary new GNSS processing. Featuring the new 600-channel “7G” chipset combined with the patented Z-Blade™ technology, the SP85 system is optimized for tracking and processing signals from all GNSS constellations in challenging environments.<br/><br/>
+With unmatched connectivity in the GNSS receiver market, the SP85 offers a unique combination of integrated 3.5G cellular, L-band satellite capable GNSS antenna, WiFi and UHF communications with SMS, email and anti-theft technology. These powerful capabilities, packaged in an ultra-rugged housing and patented antenna design, make SP85 an extremely versatile turnkey solution that can be used with unlimited operation time because of the SP85’s hot-swappable, dual battery setup.</product_info>
+         <product_document>images/landsurvey/documents/SP85.pdf</product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>SP60 GNSS Receiver</product_name>
+         <product_id>GNSSS_SP60</product_id>
+		 <product_image>images/landsurvey/SP60.jpg</product_image>
+		 <product_info><p><strong>Features &amp; Benefits:</strong></p>
+<ul>
+<li>Extended scalability</li>
+<li>Z-Blade GNSS-centric technology</li>
+<li>240-channel 6G ASIC</li>
+<li>Anti-theft technology</li>
+<li>Long Range Bluetooth</li>
+<li>Trimble CenterPoint® RTX</li>
+</ul>
+
+<strong>Overview</strong><br/><br/>
+The <strong>SP60</strong> is a new generation GNSS receiver offering a high level of flexibility to cover any demand from GIS all the way up to sophisticated RTK and Trimble RTX™ capable solutions.Combining the unique all-signals tracking and processing Z-Blade GNSS-centric technology and L-band capability for satellite-delivered Trimble RTX correction services, the SP60 receiver provides the most reliable measurements and the highest possible accuracy under any conditions anywhere in the world.</product_info>
+         <product_document>images/landsurvey/documents/SP60.pdf</product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>SP90m GNSS Receiver</product_name>
+         <product_id>GNSSS_SP90</product_id>
+		 <product_image>images/landsurvey/SP90M.jpg</product_image>
+		 <product_info><p><strong>Features &amp; Benefits</strong></p>
+<ul>
+<li>Most versatile, modular receiver design</li>
+<li>Ultra-rugged design</li>
+<li>Patented Z-Blade technology</li>
+<li>480-channel ASIC</li>
+<li>Dual GNSS antenna inputs</li>
+<li>Event marker input</li>
+<li>PPS output</li>
+<li>OLED display, keyboard, and Web UI</li>
+<li>Internal TRx UHF radio</li>
+<li>5G cellular modem</li>
+<li>Built-in Bluetooth and WiFi communication</li>
+<li>SMS and e-mail alerts</li>
+<li>Anti-theft technology</li>
+<li>Backup RTK</li>
+<li>RTK bridge</li>
+<li>2 MSS L-band channels</li>
+<li>Trimble RTX correction services</li>
+</ul>
+
+<p><strong>Overview</strong></p>
+<p>The <strong>SP90m</strong> is a powerful, highly versatile, ultra-rugged, and reliable GNSS positioning solution for a wide variety of applications in real-time and post-processing. It also comes with a variety of integrated communications options, such as Bluetooth, WiFi, UHF radio, cellular modem, and two MSS L-band channels to receive Trimble RTX correction services.</p>
+<p>The modular form factor of the SP90m allows for a maximum in flexibility on how the receiver can be used, such as base station, continuously operating reference station (CORS), RTK or Trimble RTX rover, on-board machine integration, vessels, etc. The ultra-rugged design of the aluminum receiver housing protects the investment, especially in tough field environments.</p>
+<p>The state-of-the-art and patented Z-Blade GNSS-centric technology uses all available GNSS signals to deliver fast and reliable positions in real-time. Besides supporting all currently available and future planned GNSS satellite signals, the SP90m GNSS receiver allows the connection of two GNSS antennas for precise heading determination without the need for a secondary GNSS receiver.</p></product_info>
+         <product_document>images/landsurvey/documents/SP90.pdf</product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>SP20 Handheld GNSS Receiver</product_name>
+         <product_id>GNSSS_SP20</product_id>
+		 <product_image>images/landsurvey/SP20.jpg</product_image>
+		 <product_info><p><strong>Features &amp; Benefits</strong></p>
+<ul>
+<li>Integrated High Accuracy GNSS</li>
+<li>Ergonomic Design</li>
+<li>Android Operating System</li>
+<li>Handheld accuracy</li>
+</ul>
+
+<p><strong>Overview</strong></p>
+<p>The <strong>SP20</strong> handheld GNSS receiver combines innovative, camera- enabled data collection workflow with a high level of performance in an ergonomic, scalable solution (from meter to cm accuracy).Rugged and lightweight, the SP20 is easy-to-use and highly accurate. It is the optimal tool not only for cadastral, construction, or topo surveys, but also for a range of GIS projects, including data collection, inspection and maintenance.</p>
+<p>The 5.3-inch screen delivers vivid visuals of the workflow, which enables precise 2D handheld logging. And the system’s  high degree of accuracy can be enhanced with a monopole accessory to deliver solid, survey-grade 3D measurements. The SP20 works with <strong>Penmap for Android</strong>. A hyrbrid survey &amp; GIS app for data collection and stake out. Whatever type of geospatial work you’re performing, turn to the easy-to-use SP20 handheld that consistently delivers highly accurate results.</p></product_info>
+         <product_document>images/landsurvey/documents/SP20.pdf</product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+<group>
+      <family>
+         <family_name>OPTICAL SURVEYING</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/landsurvey/Focus32_1.jpg</family_image>
+      </family>
+      <product>
+         <product_name>FOCUS 35 motorized total stations</product_name>	
+         <product_id>OS_F35</product_id>
+		 <product_image>images/landsurvey/Focus35.jpg</product_image>
+		 <product_info><p><strong>Features &amp; Benefits</strong></p>
+<ul>
+<li>StepDrive™ motion technology</li>
+<li>LockNGo™ tracking technology</li>
+<li>Survey Pro™ software on-board</li>
+<li>Available in 1″, 2″, 3″ and 5″ angle accuracies</li>
+<li>Long-range, reflectorless distance measurement</li>
+<li>Available RX models with extended operation dual battery system</li>
+<li>High-precision prism measurements</li>
+<li>GeoLock™ GPS-assist technology</li>
+<li>PIN code security locking system</li>
+<li>Onboard Long Range Bluetooth on LockNGo Model</li>
+</ul>
+
+<p><strong>Overview</strong></p>
+<p>The <strong>FOCUS 35</strong> is a motorized total station providing high speed, accuracy and precision in measurement. The FOCUS 35 robotic instrument moves the power of the observer from the instrument to the range pole, improving efficiency. The speed of observation and precise positioning of the FOCUS 35 Robotic Total Station is provided by patented StepDrive™ motion technology, which controls the horizontal and vertical motion of the motors, eliminating the need for traditional motion locks. The FOCUS 35 includes a tracking sensor that uses LockNGo™ FastTrack tracking technology, enabling the instrument to constantly lock onto the prism.The FOCUS 35 RX extended operation models feature market-leading battery life.</p></product_info>
+         <product_document>images/landsurvey/documents/FOCUS35.pdf</product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Focus 2 Series</product_name>
+         <product_id>OS_F2</product_id>
+		 <product_image>images/landsurvey/Focus2.jpg</product_image>
+		 <product_info><p><strong>Features &amp; Benefits</strong></p>
+<ul>
+<li>Versatile 2” and 5” angle accuracies</li>
+<li>Fast (0.3s) , accurate (2+2ppm) distance measurement</li>
+<li>Long range prism (4,000m) and reflectlorless (500m) measurements</li>
+<li>Long battery life (up to 13h)</li>
+<li>Large, easy to read graphic display</li>
+<li>Ergonomic keyboard design</li>
+
+<ol>
+<li>Direct numeric input</li>
+<li>Convenient alphanumeric input</li>
+<li>Unique function keys</li>
+<li>Customizable user keys</li>
+</ol>
+
+<li>Powerful and practical onboard software</li>
+<li>Bi-directional data transfer software</li>
+</ul>
+
+<p><strong>Overview</strong></p>
+<p>The <strong>FOCUS 2 Series total stations</strong> are new, highly affordable, mechanical total stations delivering versatility, ease-of-use and feature-packed on-board software to provide unmatched performance and productivity. Available in both 2” and 5” angle accuracies with accurate long range distance measurement, large, easy to read graphic display and powerful and practical on-board software, the FOCUS 2 Series offers the versatility to accommodate a wide array of survey and construction applications. The FOCUS 2 Series is an economical choice that uses established technology for optimal workflow efficiencies. With convenience and reliability as a cornerstone, the FOCUS 2 is an ideal choice for value. All FOCUS 2 models support a wide range of communication options, including SD Card, USB and serial port for convenient transfer of data.</p></product_info>
+         <product_document>images/landsurvey/documents/FOCUS2.pdf</product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>FOCUS DL-15 digital level</product_name>
+         <product_id>OS_DL15</product_id>
+		 <product_image>images/landsurvey/DL15.jpg</product_image>
+		 <product_info><p><strong>Features &amp; Benefits</strong></p>
+<ul>
+<li>Consistent Measurement Precision</li>
+<li>Measure and Record with a Single Key Press</li>
+<li>Onboard Measurement Software</li>
+<li>Internal Data Storage and Easy Transfer</li>
+</ul>
+<p><strong>Overview</strong></p>
+<p>The <strong>FOCUS DL-15 digital level</strong> is a new, very affordable, digital level delivering simplicity, ease-of-use and versatile onboard software to provide consistent precision, performance and productivity.</p></product_info>
+         <product_document>images/landsurvey/documents/FOCUSDL15.pdf</product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>SOFTWARE SOLUTIONS</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/landsurvey/softwaresolutions.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Survey Pro field software</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Survey Office software</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Survey Mobile field software</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Layout Pro Field and Layout Pro Office</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+<group>
+      <family>
+         <family_name>GIS MOBILE MAPPING</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/landsurvey/SP20_1.jpg</family_image>
+      </family>
+      <product>
+         <product_name>SP60 GNSS Receiver</product_name>
+         <product_id>GMM_SP60</product_id>
+		 <product_image>images/landsurvey/SP60.jpg</product_image>
+		 <product_info><p>Features &amp; Benefits:</p>
+<ul>
+<li>Extended scalability</li>
+<li>Z-Blade GNSS-centric technology</li>
+<li>240-channel 6G ASIC</li>
+<li>Anti-theft technology</li>
+<li>Long Range Bluetooth</li>
+<li>Trimble CenterPoint® RTX</li>
+</ul>
+<p>Overview</p>
+<p>The <strong>SP60</strong>is a new generation GNSS receiver offering a high level of flexibility to cover any demand from GIS all the way up to sophisticated RTK and Trimble RTX™ capable solutions.Combining the unique all-signals tracking and processing Z-Blade GNSS-centric technology and L-band capability for satellite-delivered Trimble RTX correction services, the SP60 receiver provides the most reliable measurements and the highest possible accuracy under any conditions anywhere in the world.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>SP20 Handheld GNSS Receiver</product_name>
+         <product_id>GMM_SP20</product_id>
+		 <product_image>images/landsurvey/SP20.jpg</product_image>
+		 <product_info><p>Features &amp; Benefits:</p>
+<ul>
+<li>Integrated High Accuracy GNSS</li>
+<li>Ergonomic Design</li>
+<li>Android Operating System</li>
+<li>Handheld accuracy</li>
+</ul>
+<p>Overview</p>
+<p>The <strong>SP20</strong> handheld GNSS receiver combines innovative, camera- enabled data collection workflow with a high level of performance in an ergonomic, scalable solution (from meter to cm accuracy).</p>
+<p>Rugged and lightweight, the SP20 is easy-to-use and highly accurate. It is the optimal tool not only for cadastral, construction, or topo surveys, but also for a range of GIS projects, including data collection, inspection and maintenance.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>MobileMapper 60</product_name>
+         <product_id>GMM_MM60</product_id>
+		 <product_image></product_image>
+		 <product_info><p>Features &amp; Benefits:</p>
+<ul>
+<li>High capacity battery</li>
+<li>Bright, high resolution 6-inch screen</li>
+<li>Military certifications, MIL-STD-810G</li>
+<li>GNSS receiver with SBAS support</li>
+<li>Android 8.0</li>
+<li>Wi-Fi, Bluetooth and 4G LTE cellular data</li>
+<li>Fast 2.2 GHz processor</li>
+<li>Post-processing</li>
+</ul>
+<p>Overview</p>
+<p>The rugged MobileMapper® 60 offers superior durability, efficiency and accuracy for professional handheld data collection. The MobileMapper 60 all-in-one GNSS receiver and smartphone provides the ultimate in accuracy (including Post-processing) and convenience for handheld geospatial data collection. Its slim, lightweight all-weather design complete with a hand strap features a large, high resolution screen for easy viewing and data manipulation.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>MobileMapper 50</product_name>
+         <product_id>GMM_MM50</product_id>
+		 <product_image></product_image>
+		 <product_info><p>Features &amp; Benefits:</p>
+<ul>
+<li>Compact and lightweight</li>
+<li>Wi-Fi only and 4G versions</li>
+<li>Enhanced GNSS with postprocessing</li>
+<li>Strong, waterproof casing - IP67</li>
+<li>Google Mobile Services</li>
+<li>Complete field and office mapping solution</li>
+<li>Easy-to-learn, easy-to-use field software</li>
+<li>3 year warranty</li>
+</ul>
+<p>Overview:</p>
+<p>The <strong>MobileMapper® 50</strong> is an Android 6 GIS data collector which offers state of the art smartphone capabilities combined with rugged professional quality and improved GNSS performance.</p>
+<p>It is very compact, lightweight and unique in being a professional grade data collector in a consumer smartphone form factor. The receiver is slim, highly rugged and very powerful (1.2 GHz quad core processor, 16GB memory and 5.3″ display) and also offers tri-constellations GNSS accurate positioning (GPS + Galileo+ Glonass or GPS + Galileo + Beidou) as well as post processing. Professional field users are strongly influenced by the consumer space and yet, at the same time, need to maximize operational efficiencies.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>DATA COLLECTOR</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/landsurvey/ST10-077.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Spectra Geospatial ST10 Tablet</product_name>
+         <product_id>DC_ST10</product_id>
+		 <product_image>images/landsurvey/ST10.jpg</product_image>
+		 <product_info><p><strong>Features &amp; Benefits</strong></p>
+<ul>
+<li>Large, 10.1 inch touch screen display - more easily see your data</li>
+<li>Field rugged - keeps working even on the job site</li>
+<li>128GB Storage - more space to store all your data</li>
+<li>4G Data Modem - stay connected and keep the corrections streaming</li>
+<li>Optional 2.4GHz radio module - survey robotically without extra equipment</li>
+<li>Windows 10 - a professional OS for professionals</li>
+<li>Laptop power - replace laptops when using the optional keyboard</li>
+<li>Works with both Survey Pro and Layout Pro software - the right software for the job</li>
+</ul>
+<p><strong>Overview</strong></p>
+<p>The ST10 is also tough. Consumer tablets just won't survive for long in a real work environment. The ST10 is designed to work outside, in the rain, deal with the mud, and still be ready for more. It's bright display and the included active stylus makes precision work a snap, even with gloves on. It frees you up to do your job.</p>
+<p>It is even a full-on Windows 10 computer and can be used that way. With the optional keyboard and trackpad attached, you can run Survey Office to process and quality control your data, write and send emails, and manage your work just like a laptop.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Ranger 7</product_name>
+         <product_id>DC_RANGER7</product_id>
+		 <product_image>images/landsurvey/Ranger7.jpg</product_image>
+		 <product_info><p><strong>Key features &amp; Benefits:</strong></p>
+<ul>
+<li>7' multi-touch display - Easier to see your data and operate</li>
+<li>Dual hot-swap batteries - Continuous power</li>
+<li>Windows 10 Professional operating system - OS for professionals</li>
+<li>Available with Survey Pro and Layout Pro software - The right software for the job</li>
+</ul>
+<p><strong>Overview</strong></p>
+<p>The <strong>Ranger 7 Data Collector</strong>, with its rugged and sunlight readable 7-inch touch screen, full keypad, and Windows 10 Pro operating system, is built to hit the mark for surveyors requiring an easy-to-use, rugged, cost-effective data collector. The Ranger 7 comes with either Survey Pro or Layout Pro depending on your needs. With the full-features Windows 10 operating system, the Ranger 7 can also handle many other apps that will help make you more productive.</p>
+<p>The all-new design of the Ranger 7 Data Collector is based on the experience gained over the last 18 years of demanding field operations. The guiding principles have never changed: productivity, reliability, and quality. A down day is simply not an option. The Ranger 7 continues the legacy of the Ranger data collector by focusing on what is important.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Ranger 3</product_name>
+         <product_id>DC_RANGER3</product_id>
+		 <product_image>images/landsurvey/Ranger3.jpg</product_image>
+		 <product_info><p><strong>Features &amp; Benefits</strong></p>
+<ul>
+<li>Large, bright, sunlight- readable color VGA screen</li>
+<li>Meets MIL-STD-810G standards</li>
+<li>IP67 rating</li>
+<li>SDHC card slot and USB connections</li>
+<li>30+ hour rechargeable battery</li>
+<li>Windows Mobile 6 5</li>
+<li>Integrated Bluetooth, Wi-Fi, Compass and GPS</li>
+</ul>
+<p><strong>Overview</strong></p>
+<p>The Ranger features Survey Pro and Windows Mobile 6 5, with the capability to run the mobile version of all your favorite programs including Excel and Outlook. Integrated Bluetooth capabilities let you connect to field equipment without cables. The Ranger 3 comes standard with 8 GB of onboard memory for storing data. Move your data fast and easily using a SDHC card, Bluetooth, USB cable, USB memory stick, WiFi, or GSM WWAN. Choose from four different models of the Ranger with the features that best suits your needs and your budget. They're all power-packed, so there's no wrong choice.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>T41 Data Collector</product_name>
+         <product_id>DC_T41DC</product_id>
+		 <product_image>images/landsurvey/T41.jpg</product_image>
+		 <product_info><p>Features &amp; Benefits</p>
+<ul>
+<li>Rugged design with 4.3" display protected by Gorilla® Glass</li>
+<li>Windows Embedded Handheld 6.5 OS</li>
+<li>8 megapixel camera with dual LED flash</li>
+<li>Bluetooth, WiFi and 3.75G cellular connectivity</li>
+<li>1 GHz CPU with 512 MB RAM and 16 GB Flash storage</li>
+<li>Full-Day battery life</li>
+<li>Support for 10 languages</li>
+</ul>
+<p>Overview</p>
+<p>The <strong>T41™ Data Collector</strong> is rugged, powerful, connected and compact, offering high performance with a high-resolution outdoor readable display. The slim, ergonomic design is easy to hold and enables all-day use. A new capacitive touch-screen protected by Gorilla® Glass provides intuitive and responsive finger-tip touch capability. The T41 handheld has 3.75G cellular data capabilities for use with VRS networks, plus cellular voice and SMS capabilities. The 8-megapixel camera can be set to automatically include time and location data from the integrated GPS receiver.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>TERRESTRIAL LIDAR</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/landsurvey/TERRESTRIAL LIDAR.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Trimble SX10</product_name>
+         <product_id>TL_SX10</product_id>
+		 <product_image>images/landsurvey/SX10.jpg</product_image>
+		 <product_info><p>Combines surveying, imaging and high speed 3D scanning in one instrument</p>
+<p>1"Angular Accuracy</p>
+<p>Lightning 3DM</p>
+<p>EDM Technology</p>
+<p>1 mm + 1.5 ppm Prism / 2.0 mm + 1.5 DR</p>
+<p>EDM Accuracy</p>
+<p>The Trimble® SX10 scanning total station redefines the capabilities of everyday survey equipment by providing the world's most innovative solution for surveying, engineering, and scanning professionals. The Trimble SX10 will change the way you work. This new, versatile solution is capable of collecting any combination of high-density 3D scan data, enhanced Trimble VISION imaging, and high-accuracy total station data, allowing you to capture exactly what you need, saving you time and money on every job. Trimble's new Lightning 3DM enables the SX10 to capture both high-accuracy total station measurements and true high-speed 3D scans together in a single instrument providing a higher level of accuracy and measurement performance than ever before.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Trimble X7</product_name>
+         <product_id>TL_X7</product_id>
+		 <product_image>images/landsurvey/Trimble X7.jpg</product_image>
+		 <product_info><ul>
+<li>The X7 is safe and effective to use in public buildings to create as-built models for scan to BIM and for renovations.</li>
+<li>Provide utility for building extensions, conversions and inspection of facades and elevations.</li>
+<li>Handle design optimization and accessibility planning.</li>
+<li>Use survey-grade self-leveling to verify verticality, floor flatness and to analyze deformation of beams and columns.</li>
+<li>In-field registration verifies the entire project has been captured to eliminate the risk of return visits, especially where access permits are difficult to obtain.</li>
+<li>Transfer data to TBC, RealWorks® or other CAD software for final analysis and design.</li>
+</ul></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Trimble TX6</product_name>
+         <product_id>TL_TX6</product_id>
+		 <product_image>images/landsurvey/Trimble TX6.jpg</product_image>
+		 <product_info><p>Essential performance, range, accuracy and speed</p>
+<p>500k pts/sec</p>
+<p>Scanning Speed</p>
+<p>80m Standard, 120m Extended</p>
+<p>Scanning Range</p>
+<p>Integrated HDR camera, 10 MP resolution</p>
+<p>Imaging</p>
+<ul>
+<li>Essential performance - effective high speed scanning with consistent accuracy over the full scan range. The Trimble TX6 delivers superior performance compared to other similarly priced scanners</li>
+<li>High quality data - quickly capture clean data even in bright sunlight. Be confident you will get the quality data you need with less setups to complete the project</li>
+<li>Integrated HDR camera - Trimble VISION™ technology provides fast image capture to colorize scans with minimal impact on field productivity</li>
+<li>Integrated WLAN - enables wireless remote operation from Windows, Apple and Android mobile devices.</li>
+<li>Effective ranges - choose from standard 80 meter range or upgrade to extended 120 meter range to match the standard scan range of the Trimble TX8</li>
+<li>Easy to operate - the intuitive onboard interface makes the TX6 easy to learn, reducing startup time. Users will immediately build confidence to successfully complete projects</li>
+</ul></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Trimble TX5</product_name>
+         <product_id>TL_TTX5</product_id>
+		 <product_image>images/landsurvey/Trimble TX5.jpg</product_image>
+		 <product_info><p>The Trimble TX5 3D Laser Scanner is able to measure at speeds of up to 976,000 points per second, up to a range of 120 meters. The compact and lightweight design provides flexibility and portability around the job site, increasing field productivity. The intuitive and easy-to-use onboard interface allows new users to quickly become proficient and easily incorporate 3D scanning into their business.</p>
+<p>"The Trimble TX5 fills an important position within our 3D laser scanning portfolio by providing a versatile solution for a broad range of scanning applications," said David Fitzpatrick, general manager at Trimble. "The new solution extends Trimble's 3D scanning offerings and allows us to provide customers with a choice of marketing leading solutions best suited for their needs."</p></product_info>
+         <product_document>images/landsurvey/documents/Trimble_TX5.pdf</product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+<group>
+      <family>
+         <family_name>MOBILE LIDAR</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/landsurvey/MobileLidar.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Trimble MX9</product_name>
+         <product_id>ML_MX9</product_id>
+		 <product_image>images/landsurvey/Trimble MX9.jpg</product_image>
+		 <product_info><p>Innovative mobile mapping system for large-scale scanning and mapping missions</p>
+<p>The Trimble® MX9 is a complete field-to-finish mobile mapping solution that combines leading edge hardware with intuitive field software and a powerful, integrated office software workflow.</p></product_info>
+         <product_document>images/landsurvey/documents/Trimble MX9.pdf</product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Yellowscan Fly &amp; Drive</product_name>
+         <product_id>ML_YFD</product_id>
+		 <product_image>images/landsurvey/Yellowscan Fly Drive.jpg</product_image>
+		 <product_info><p>Fly when you can, drive when you must</p>
+<table width="618">
+<tbody>
+<tr>
+<td>
+<p>typ. driving speed</p>
+</td>
+<td>
+<p>precision</p>
+</td>
+<td>
+<p>accuracy</p>
+</td>
+<td>
+<p>max range</p>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<p>Up to<br /> 50km/h<br /> (30mph)</p>
+</td>
+<td>
+<p>Up to<br /> 4cm<br /> (1.5")</p>
+</td>
+<td>
+<p>Up to<br /> 5cm<br /> (2")</p>
+</td>
+<td>
+<p>Up to<br /> 200m<br /> (650ft)</p>
+</td>
+<td>
+
+</td>
+</tr>
+</tbody>
+</table>
+<p>The YellowScan Fly &amp; Drive is a versatile land vehicle-mounted or UAV-mounted mobile mapping system which combines high resolution laser scanning and precise positioning to collect geo-referenced point clouds for a wide range of applications.</p></product_info>
+         <product_document>images/landsurvey/documents/Yellowscan Fly Drive.pdf</product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+    <group>
+      <family>
+         <family_name>UAV LIDAR</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/landsurvey/uavlidar.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Yellowscan Mapper</product_name>
+         <product_id>UAVL_YSM</product_id>
+		 <product_image>images/landsurvey/YelloScanMapper.jpg</product_image>
+		 <product_info><p>YellowScan Mapper UAV LiDAR system includes high-performance <strong>Livox Horizon</strong> laser scanner. With a great point density, this LiDAR sensor allows our LiDAR system to fly easily at 70m AGL with a 120m swath.</p>
+<p>We recommend a balanced 10 m/s flight speed to benefit from Mapper point density while having good productivity. For example, flying at 70m AGL, 10 m/s, you will be able to map 10 ha in 3 minutes.</p>
+<p>YellowScan Mapper is definitely the right LiDAR tool to start with. Your data collection will be pretty fast, accurate and cost-effective.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	        <product>
+         <product_name>Yellowscan Surveyor</product_name>
+         <product_id>UAVL_YSS</product_id>
+		 <product_image>images/landsurvey/YelloscanSurveyor.jpg</product_image>
+		 <product_info><p><strong>The lightest UAV solution for 3D laser mapping</strong></p>
+<p>Research and development for the YellowScan Surveyor solution began in early 2015 with the same philosophy and technology foundation that has made the YellowScan Mapper so successful. With a robust and fully integrated system designed to meet the needs of most demanding survey and terrain professionals, the Surveyor is quick and easily adapted to any drone, generating data when and where you need it.</p>
+<p>The team has carefully selected and deployed the best high-end components for unparalleled levels of performance (Applanix APX15 single board GNSS-Inertial solution for its highly accurate position and orientation direct georeferencing).</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Yellowscan Surveyor Ultra</product_name>
+         <product_id>UAVL_YSSU</product_id>
+		 <product_image>images/landsurvey/YellowscanUltra.jpg</product_image>
+		 <product_info><p><strong>YellowScan's Surveyor Ultra is suited for high speed UAVs &amp; long-range needs with its high-density specs</strong></p>
+<p>Its light weight makes it easy to mount on any drone, including VTOLs. As with all YellowScan's LiDAR systems, the Surveyor Ultra is designed for 3D modeling under vegetation, and fast data processing.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Yellowscan Fly &amp; Drive</product_name>
+         <product_id>UAVL_YSFAD</product_id>
+		 <product_image>images/landsurvey/YelloscanFlyDrive.jpg</product_image>
+		 <product_info><p><strong>Designed to be easily swapped in minutes from vehicles to UAV.</strong></p>
+<p>The YellowScan Fly &amp; Drive is a versatile land vehicle-mounted or UAV-mounted mobile mapping system which combines high resolution laser scanning and precise positioning to collect geo-referenced point clouds for a wide range of applications.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	    <product>
+         <product_name>Yellowscan VX-15</product_name>
+         <product_id>UAVL_YSVX15</product_id>
+		 <product_image>images/landsurvey/Yelloscan VX15.jpg</product_image>
+		 <product_info><p><strong>Having a longer range and more accurate system were the prerequisites of the Vx-series.</strong></p>
+<p>Following YellowScan's philosophy « Just press the Yellow Button », YellowScan designed an all-integrated, easy-to-use LiDAR system that includes the renowned Riegl laser scanner and Applanix UAV IMU APX-15. YellowScan Vx-15 is an excellent solution for your high flight UAV projects with short-time data processing needs. It is ideally sized for all types of UAVs.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Yellowscan VX-15+</product_name>
+         <product_id>UAVL_YSVX15plus</product_id>
+		 <product_image>images/landsurvey/Yelloscan VX15plus.jpg</product_image>
+		 <product_info><p><strong>YellowScan Vx-15<sup>+</sup> is the upgraded version of the Vx-15, integrating the miniVUX-2UAV.</strong></p>
+<p>YellowScan Vx-15<sup>+</sup> keeps the best of Vx-15 (high precision point cloud) while using a Riegl miniVUX-2UAV laser scanner (increased frequency vs miniVUX-1UAV) adding better productivity capabilities for your LiDAR data acquisition, better vegetation penetration and optimized results for snowy or icy measurement.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>UNMANNED AERIAL VEHICLE</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/landsurvey/AUSInsight2.jpg</family_image>
+      </family>
+      <product>
+         <product_name>AUS – Insight 2.0</product_name>
+         <product_id>UAVAUSI2</product_id>
+		 <product_image>images/landsurvey/AUSInsight2.jpg</product_image>
+		 <product_info><p><strong>AUS - Insight 2.0</strong></p></product_info>
+         <product_document>images/landsurvey/documents/Insight2.0 Technical Specification.pdf</product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	 
+   </group>
+</land>
+
+ <!-- <group> -->
+      <!-- <family> -->
+         <!-- <family_name></family_name> -->
+		 <!-- <family_intro></family_intro> -->
+         <!-- <family_image>images/landsurvey/LandSurveyEquip.jpg</family_image> -->
+      <!-- </family> -->
+      <!-- <product> -->
+         <!-- <product_name></product_name> -->
+         <!-- <product_id></product_id> -->
+		 <!-- <product_image></product_image> -->
+		 <!-- <product_info></product_info> -->
+         <!-- <product_document></product_document> -->
+		 <!-- <product_weblink></product_weblink> -->
+      <!-- </product> -->
+   <!-- </group> -->

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<security>
+<product>
+         <product_title>Sonars</product_title>
+		 <product_image>oculus.jpg</product_image>
+		 <product_info><p>The  multibeam sonars are a new generation of imaging sonar, designed for use across a wide variety of underwater applications.
+Their small form factor, weighing less than 400g in water, and dual frequency capabilities make them ideally suited for deployment on micro sized platforms, while their rugged construction also makes them an excellent choice for larger work-class vehicles and subsea infrastructure.
+
+</p></product_info>
+         <product_document></product_document>
+      </product>
+	 <product>
+         <product_title>Diver Convertible Sonar</product_title>
+         <product_image>DiverHeldSonars.jpg</product_image>
+		 <product_info><p>It comes available in two operating frequency models:</p>
+<ul>
+<li>3.0 MHz and 1.8 MHz (5m and 15m range capabilities)</li>
+<li>1.8 MHz and 1.1 MHz (15m and 35m range capabilities)</li>
+</ul>
+<p><strong>Applications:</strong></p>
+<ul>
+<li>Search and Recovery</li>
+<li>Port and Harbor Security</li>
+<li>Underwater Inspection</li>
+<li>Monitoring Operations and Divers</li>
+</ul></product_info>
+         <product_document></product_document>
+      </product>
+	 
+	  
+	  <product>
+         <product_title>Hydrophone</product_title>
+         <product_image>Hydrophones.jpg</product_image>
+		 <product_info><p>The icListen Smart Hydrophone is a compact, all-in-one instrument that logs calibrated waveform, spectral or event data in standard formats and can stream real-time data. Use the icListen as a digital hydrophone, acoustic data recorder, or both at once.</p>
+<p>The icListen R-Type uses Reson sensor technology, giving those users a quality digital hydrophone alternative. This 24-bit instrument includes rechargeable batteries and a large memory. Configure the icListen to log events or transmit in real-time.</p>
+<p><strong>Application</strong></p>
+<ul>
+<li>Environmental Monitoring</li>
+<li>Marine Renewable Energy</li>
+<li>Pipeline Leak Detection</li>
+<li>Ocean Observatories</li>
+<li>Marine Mammal Monitoring</li>
+<li>Noise Measurement</li>
+<li>Acoustic Array</li>
+</ul></product_info>
+         <product_document></product_document>
+      </product>
+	  <product>
+         <product_title>Remotely Operated Vehicles (ROV)</product_title>
+		<product_image>defender.png</product_image>
+		 <product_info>The Mission Specialist Defender configuration is designed for more precise control of the vehicle position and orientation, heavier payloads, and demanding intervention, such as rendering unexploded ordnance safe or cleaning nets for offshore fish farms. With seven thrusters, the Defender is able to move in any direction, and maintain active pitch to face the vehicle in an upward or downward orientation. The addition of third party control and navigation software from Greensea Systems or Seebyte makes the Defender a popular configuration for dangerous or heavy-duty missions.</product_info>
+         <product_document></product_document>
+      </product>
+	  
+	  <product>
+         <product_title>Side Scan Sonar</product_title>
+		 <product_image>SSSonars.jpg</product_image>
+		 <product_info><ul>
+<li>Search and Recovery | Inland Water Surveys</li>
+<li>Mine Countermeasures (MCM) Mission Support</li>
+<li>Intelligence, Surveillance and reconnaissance (ISR) Mission</li>
+<li>Rapid Environmental (Bathymetry) Assessment Surveys</li>
+<li>Port and Harbor Security | Hydrographic Surveys | Route Surveys</li>
+<li>Pipeline and Offshore Survey</li>
+<li>Archaeological Surveys | Treasure/Wreck Hunting | Hull Surveys</li>
+<li>Shallow Water Hydrographic Surveys</li>
+<li>Geographical Surveys</li>
+<li>Dredging and Salvage Operations</li>
+</ul></product_info>
+         <product_document></product_document>
+      </product>
+<product>
+         <product_title>FEBUS G1 – R DTS / DSS</product_title>
+		 <product_image>FEBUS G1 – R DTS.jpg</product_image>
+		 <product_info>
+<p>FEBUS G1-R device provides Strain and Temperature information typically every 1 m along several tens of kilometers along an optical fiber deployed on the infrastructure. This system is specifically designed to meet harsh environment requirements with energy saving configuration and single- ended connection to the optical fiber sensing cable.</p>
+<ul>
+<li><strong>Applications</strong> : Pipelining Monitoring , Cable Integrity, Structural Health Monitoring</li>
+</ul></product_info>
+         <product_document></product_document>
+</product>
+<product>
+         <product_title>FEBUS A1 – R DAS</product_title>
+		 <product_image>FEBUS A1.jpg</product_image>
+		 <product_info><p>FEBUS A1-R device provides Acoustic sensing typically every 2 m along several tens of kilometers with optical fiber cable deployed on the infrastructure. The FEBUS A1-R device can be connected to optical fiber cables already in place. The only requirement is for the optical fiber to be single-mode. This system is specifically designed to meet harsh environment requirements with single-ended connection to the optical fiber sensing cable.</p>
+<ul>
+<li><strong>Applications: </strong>Intrusion Detection Pipelining Monitoring , Cable Integrity Monitoring, Structural Health Monitoring</li>
+</ul></product_info>
+         <product_document></product_document>
+</product>
+<product>
+         <product_title>FEBUS G1 – C DTS / DSS</product_title>
+		 <product_image>FEBUS G1 – C DTS.jpg</product_image>
+		 <product_info><p>FEBUS G1-C device provides Strain and Temperature information every 1 m along several tens of kilometers along an optical fiber deployed on the infrastructure. This system is specifically designed for services purposes allowing quick and easy Brillouin measurement wherever it is required. The system meets the harsh environment requirements with energy saving configuration and single- ended connection to the optical fiber sensing cable.</p>
+<ul>
+<li><strong>Applications:</strong> Cable Integrity Monitoring, Structural Health Monitoring</li>
+</ul></product_info>
+         <product_document></product_document>
+</product>
+<product>
+         <product_title>FEBUS G1 - D Dynamic DTS / DSS</product_title>
+		 <product_image>FEBUS G1 - D Dynamic DTS.jpg</product_image>
+		 <product_info><p>FEBUS G1-D device provides Dynamic Strain or Static Strain and Temperature information typically every 1 m along several kilometers along an optical fiber deployed on the infrastructure. This system is specifically designed to meet harsh environment requirements with energy saving configuration and single-ended connection to the optical fiber sensing cable.</p>
+<ul>
+<li><strong>Applications:</strong> Structural Health Monitoring</li>
+</ul></product_info>
+         <product_document></product_document>
+</product>
+ 
+</security>
+  
+ 
+<!-- <product>
+         <product_title></product_title>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+</product>  -->
+

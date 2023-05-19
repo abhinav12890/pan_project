@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<casestudies>
+      
+	   
+	   <case>
+         <case_title>Lippman IP Resitivity meter case study – IIRS</case_title>
+		 <case_image>IIRS journal on LERM.jpg</case_image>
+		 <case_info>An efficient and effective disaster management
+requires infusion of space technology, which is
+developing at a rapid pace due to both technological
+advancements and greater demand caused by
+emerging business opportunities and security
+concerns. The global community has experienced the
+benefit of space technology in disaster management
+support through various national, regional and global
+efforts including International Charter for Space and
+Major Disasters. One of the most critical elementsfor infusion of the right
+kind of space technology in disaster management support requires
+appropriate research and capacity building in this new domain of scientific
+endeavor. It involves real time to near real time processing of satellite and
+other sensor data and derivation of knowledge products that would serve a
+variety of disasters in different stages of disaster management.</case_info>
+         <case_document>IIRS journal on LERM.pdf</case_document>
+</case>
+
+<case>
+         <case_title>Lippman IP Resitivity meter case study – IIT Roorkee</case_title>
+		 <case_image>IIT Roorkee report-LERM.jpg</case_image>
+		 <case_info>Vertical Electrical Sounding (VES) is by far the most used method for geoelectric surveying, because it is one of the cheapest geophysical method and it gives very good results in many area of interest.
+This method uses two current electrodes situated at the end points with the two measuring electrodes continuously spreading in the line. This yields depth-wise resistivity variations, which are interpreted in terms of aquifer aquitards at depth and salinity of water in the aquifers.
+The field measurements technique is adjustable for the different topographic conditions and the interpretation of the data can be done with specialized software, with a primary interpretation immediately after the measurements. The results of VES measurements can be interpreted qualitatively as well as quantitatively.
+The technology is applicable on rivers and lakes also, making it possible to find out the geology of underwater terrain. This method has proven efficient in designing vertical guided boreholes and other engineer projects.</case_info>
+         <case_document>IIT Roorkee report-LERM.pdf</case_document>
+</case>
+<case>
+         <case_title>Vista Clara GMR Case study – Kansas</case_title>
+		 <case_image>Kansas_GMR_JAV_report.jpg</case_image>
+		 <case_info>Both surface-based GMR and down-hole Javelin logging measurements were collected at the well-characterized Geohydrologic Experimental and Monitoring Site. The known subsurface structure
+Instrumentation: GMR surface NMR &amp; Javelin NMR logging – 1.7 inch probe
+at the site consists of an upper clayey-silt layer overlying a sand aquifer located at around 9m; the water table is at 5m. Both the surface and logging datasets not only reflect the known subsurface structure, but are also remarkably consistent with one another. The two results show long decay times and high mobile water content in the lower sand layer, reliably identifying a productive aquifer.</case_info>
+         <case_document>Kansas_GMR_JAV_report.pdf</case_document>
+</case>
+
+<case>
+         <case_title>Vista Clara GMR Case study – Montana</case_title>
+		 <case_image>montana_spinecho_report.jpg</case_image>
+		 <case_info>Water managers and ranchers in Western Montana can use NMR measurements to inform regional groundwater flow models and to select appropriate irrigation practices. Measured decay times, which are used to estimate subsurface hydrogeologic properties, are sometimes influenced by the presence of magnetic minerals. At this field site, T2* decay times from FID measurements were found to be very short (~15-50 ms), initially suggesting that groundwater was bound in low permeability silts. Supplemental spin echo measurements, however, revealed that the T2 decay times were actually much longer (~100-400 ms). While FID measurements were strongly affected by the magnetic geology, robust spin echo measurements accurately reflected the high permeability of the shallow sand and gravel aquifer. This study demonstrates that the characterization of aquifers in magnetic geology requires the ability to measure very short signals and high-quality spin echo decays.</case_info>
+         <case_document>montana_spinecho_report.pdf</case_document>
+</case>
+<case>
+         <case_title>Vista Clara GMR Case study – GMR Vs Lippman</case_title>
+		 <case_image>Paper_GMR vs Lippmann.jpg</case_image>
+		 <case_info>In this paper, an attempt is made to briefly describe different methods for geophysical investigations.
+Afterward, experiments were carried out in the field to investigate the geophysical strata
+below the surface of the soil using both ground magnetic resonance (GMR) and resistivity meter.
+The measured geophysical strata from GMR and resistivity meter are compared with borehole data.
+It is observed that the results obtained by GMR and resistivity meter of aquifer strata are matching
+with borehole data. Hence, it is shown that GMR measurements are more economical, time-saving
+and non-invasive. Finally, the measured hydraulic conductivity can have potential application in the
+modeling of flow through subsurface soil.</case_info>
+         <case_document>Paper_GMR vs Lippmann.pdf</case_document>
+      </case>
+	  <case>
+         <case_title>Geobit Seismometer Case Study </case_title>
+		 <case_image>Geobit_presentation.jpg</case_image>
+		 <case_info>Our involvement with Geophysical &amp; Seismological Instruments starts at the early 2000’s as instrument designers and field support for micro-seismic monitoring companies. We have designed and manufactured several types of seismic monitoring instruments, focusing in low cost, easy of use, very low power consumption and high reliability. Our instruments have been used in hundreds at projects in the most difficult conditions and harsh environments, worldwide, We are more than happy that they never had any operational problem or fail. More than 2.650 instruments have been deployed worldwide up to now. 
+<br/><br/>Our company bears all the accumulated experience of the past years, broadens its activities into new seismic monitoring applications and launches commercial co operations as well as new products in the geophysical / seismological sector.
+<br/><br/>Our target is to supply the industry with portable, low power, low cost, geophysical and seismological instruments, such as 32bit ADC seismic digitizers &amp; recorders, wide-band seismic sensors and processing software for exploration geophysics and seismology. Our instruments are ideal for local and regional seismicity and micro-seismicity monitoring and for seismic events such as those induced by unconventional hydrocarbon extraction (e.g. hydraulic fracturing).
+<br/><br/>Our high fidelity digitisers/recorders ensure that these signals are recorded with the highest resolution and accurate timing. They can be networked over seedlink telemetry providing real time monitoring networks.
+<br/><br/>We have installed in India – ONGC Gujrat, BHU Varansai, ISM Dhanbad etc.
+
+</case_info>
+         <case_document>Geobit_presentation.pdf</case_document>
+</case> 
+ <case>
+         <case_title>CORS: GNSS NETWORK CHALLENGES</case_title>
+		 <case_image>CORS GNSS.jpg</case_image>
+		 <case_info>A Continuously Operating Reference Stations (CORS) GNSS Network is a modern tool to provide
+regional positioning service that can provide fit-for-purpose positioning. In CORS Infrastructure, the
+corrections are instantly sent to the rover receiver (user end) from control centre which helps to find very
+accurate positioning of rover in real time.
+CORS plays a major role in achieving centimeter accuracy positioning in many applications, for
+example, cadastral mapping, land information management, large scale mapping, fleet management,
+tracking and navigation etc. To achieve this positioning service seamlessly at a regional level, a CORS
+network need to have an integrated national setup.</case_info>
+         <case_document>CORS GNSS.pdf</case_document>
+</case> 
+<case>
+         <case_title>FOCUS 35 Helping Build China's Expressway</case_title>
+		 <case_image>FOCUS 35 Helping Build China.jpg</case_image>
+		 <case_info>FOCUS 35 robotic total stations are hard at work helping build the world’s largest
+expressway network. In one notable example, the FOCUS 35, with its time-saving automatic scan template, is checking
+the cross-section quality of the twin Nan Kunshan tunnels for the new six-lane Shazhan S14 regional highway.
+Excavation under Nankun Mountain for the twin tunnels, each 4.1 km long and each capable of carrying three lanes of
+vehicular traffic, began in September 2016. In the current second phase of construction, the FOCUS 35 is being used to
+gather data that will be used to compare the as-built tunnels to the design specifications to determine what
+adjustments to the tunnel surfaces may need to be made.</case_info>
+         <case_document>FOCUS 35 Helping Build China.pdf</case_document>
+</case> 
+
+<case>
+         <case_title>Meghalaya-East Jaintia Hills Rescue operation</case_title>
+		 <case_image>Meghalaya Rescue operation- ROV.jpg</case_image>
+		 <case_info>The 15 miners were trapped in the 320-foot-deep mine in the Ksan area of Lumthari village in
+Meghalaya’s East Jaintia Hills district since December 13, 2018. <br/><br/>About 20 miners on December 13 entered the mine. After reaching the bottom of the pit, they
+entered horizontal manholes, often termed as 'rat-holes', and each just about fits one person. The
+rat-hole mine located on top of a hillock fully covered with trees had got flooded. Five persons
+were able to climb out of the flooded mine, leaving the others behind. The miners were trapped
+in the illegal pit after water from nearby Lytein River gushed into the mine.</case_info>
+         <case_document>Meghalaya Rescue operation- ROV.pdf</case_document>
+</case> 
+</casestudies>
+ 
+<!-- <case>
+         <case_title></case_title>
+		 <case_image></case_image>
+		 <case_info></case_info>
+         <case_document></case_document>
+</case>  -->
+

@@ -1,0 +1,19 @@
+.video-banner {
+  position: relative;
+  width: 100%;
+  height: var(--video-height, 220px); /* use CSS variable to define height */
+  overflow: hidden;
+  margin-bottom: 3vh;
+  z-index: 2;
+
+  video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* make video fill entire container while maintaining aspect ratio */
+    z-index: -1;
+    transform: translateX(-50%) translateY(-50%);
+  }
+}

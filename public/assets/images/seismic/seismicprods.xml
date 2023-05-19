@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seismic>
+   <group>
+      <family>
+         <family_name>LAND DATA ACQUISITION SYSTEM</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/seismic/LandDataAquisitionSystem.jpg</family_image>
+      </family>
+      <product>
+         <product_name>508 XT – X – Tech Acquisition</product_name>
+         <product_id>M_508XTX</product_id>
+		 <product_image>images/seismic/508XT–X–TechAcquisition.jpg</product_image>
+		 <product_info>The 508XT’s new X-Tech architecture is composed of XT-nodes that can consist of as few as 1 or up to as many as 100 or more analog or digital channels connected to a CX-508 concentrator. This new X-Tech architecture combines the best of cabled and wireless system technologies by allowing segments to be run autonomously with local storage and system QC or connected to the spread with full real-time data transmission to the central recorder.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	 
+	 
+	  <product>
+         <product_name>WiNG – Land Nodal Solution</product_name>
+         <product_id>M_WINGL</product_id>
+		 <product_image>images/seismic/WiNG–LandNodalSolution.jpg</product_image>
+		 <product_info>WiNGNT is a fully integrated nodal land acquisition system designed with a single data collection platform to manage operations more easily and efficiently. This new nodal solution integrates Sercel’s best performing and most sensitive broadband sensor ever, QuietSeis®, to acquire high precision seismic data. The WiNG node or DFU (Digital Field Unit), has been designed to minimize transportation &amp; storage costs. With its compact &amp; light design (855g), the DFU can record seismic data for up to 50 days. An additional version, the AFU (Analog Field Unit) is also available for use with geophone strings.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>508 XT Transition Zone Acquisition</product_name>
+         <product_id>M_508XTT</product_id>
+		 <product_image>images/seismic/508XTTransitionZoneAcquisition.jpg</product_image>
+		 <product_info>508XT extends its capabilities to marsh and transition zone seismic surveys by providing a dedicated solution for this challenging environment. The new equipment addresses the tough constraints of operating in shallow water areas with a reinforced breaking strength to 300 daN and a waterproofed capability of up to 25m.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>SOURCES FOR LAND DATA ACQUISITION</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/seismic/SourcesLandDataAcquisition.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Nomad 15</product_name>
+         <product_id>M_NOMAD15</product_id>
+		 <product_image>images/seismic/Nomad15.jpg</product_image>
+		 <product_info>Nomad 15 is the new small vibrator from Sercel. It is equipped with a broadband shaker for improved vertical resolution, higher frequency content and due to its compact design can access even the most challenging areas (forest, cities, sensitive zones,…). Designed with a reduced environmental footprint, it is equipped with a modern low emission engine that is compatible with IPM (Intelligent Power Management), a newly developed option optimizing the engine efficiency and reducing the fuel consumption.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Nomat 65 Neo</product_name>
+         <product_id>M_NOMAT65</product_id>
+		 <product_image>images/seismic/Nomat65Neo.jpg</product_image>
+		 <product_info>Nomad 65 Neo is the new all-terrain broadband vibrator. Evolution of the popular Nomad 65 with enhanced mechanical and hydraulic components and shaker redesign, it is capable of delivering stronger low frequency content with full drive achieved from 5.4Hz.<br/><br/>This enhanced performance is made possible using the latest innovations in shaker and hydraulic circuitry design. Another newly developed feature is the IPM (Intelligent Power Management) system. By optimizing engine efficiency, IPM will reduce fuel consumption by up to 15%. The IPM option can be also be integrated into existing Nomad 65.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Nomat 90 Neo</product_name>
+         <product_id>M_NOMAT90</product_id>
+		 <product_image>images/seismic/Nomat90Neo.jpg</product_image>
+		 <product_info>Nomad 90 Neo is the new Sercel super-heavy vibrator. With its advanced design which includes a long mass stroke, heavy mass and high hydraulic pressure, it is ideally suited to the generation of high-quality, low-frequency sweeps. Nomad 90 Neo also features a 90,000 lbf hydraulic peak force and an ultra stiff baseplate to improve high-frequency signal fidelity. Nomad 90 Neo brings a tremendous productivity gain compared to conventional vibrators, thanks to a very low full-drive start frequency. Nomad 90 Neo is totally compatible with IPM, a unique option developed for the Nomad vibrator family.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>VIB 3246</product_name>
+         <product_id>M_VIB3246</product_id>
+		 <product_image>images/seismic/VIB3246.jpg</product_image>
+		 <product_info>Designed by Thomas-Constructeurs in cooperation with Sercel, the VIB 3246 is a 62,000 lbf truck-mounted vibrator that complies with European Community environmental regulations as well as off-road and on-road requirements. The intelligent design of its’ truck frame makes this autonomous vehicle very flexible, simplifying logistics in many terrains. Top speeds of up to 53 MPH can be reached. The VIB 3246 integrates the Nomad 65 vibrator kit, an industry leader known for its’ consistent reliability and high performance</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>VE 464</product_name>
+         <product_id>M_VE464</product_id>
+		 <product_image>images/seismic/VE464.jpg</product_image>
+		 <product_info>The VE464 benefits from the latest developments in integration, radio transmission and servo control, allowing easier implementation of vibroseis seismic than ever before, even for advanced types of acquisition. Used in conjunction with the 428XL or 508XT acquisition system, the VE464 is a key component in achieving very high level of productivity.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  
+	  <product>
+         <product_name>SGD-S Shooting system</product_name>
+         <product_id>M_SGDSSS</product_id>
+		 <product_image>images/seismic/SGD-S.jpg</product_image>
+		 <product_info>The SGD-S shooting system is designed to improve the productivity of dynamite seismic operations, providing each shooter in a multi-shooter mode the ability to let the Central Unit know where he is located and when he is ready to shoot.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  
+   </group>
+   <group>
+      <family>
+         <family_name>SENSORS FOR LAND DATA ACQUISITION</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/seismic/SensorsForLandDataACQUISITION.jpg</family_image>
+      </family>
+	   <product>
+         <product_name>DSU1 – 508</product_name>
+         <product_id>M_DSU1</product_id>
+		 <product_image>images/seismic/DSU1–508.jpg</product_image>
+		 <product_info>DSU1-508, featuring QuietSeis™, is Sercel’s newest and most advanced digital sensor using next generation MEMS technology. Fully integrated with 508XT, the innovative design of QuietSeis provides the most accurate data for any survey type up to 1.000.000 channels.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+      <product>
+         <product_name>SG-5 High Sensitivity 5Hz Geophone</product_name>
+         <product_id>M_SLDASG5</product_id>
+		 <product_image>images/seismic/SG-5-.jpg</product_image>
+		 <product_info>SG-5 is a new geophone featuring a high-sensitivity and a low natural frequency. This new sensor offers comparable output sensitivity to an array of geophones while providing lower frequency recording capabilities down to 5Hz.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	     <product>
+         <product_name>SG-10 High Performance Geophone</product_name>
+         <product_id>M_SLDASG10</product_id>
+		 <product_image>images/seismic/SG10.jpg</product_image>
+		 <product_info><p>The SG-10 was developed utilizing rare-earth magnet technology to achieve very low distortion and the highest tilt tolerance in the industry.</p>
+<p>This technology, coupled with a specific magnetic geometry, results in one of the most advanced geophones in the seismic industry.</p>
+</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	     <product>
+         <product_name>SG-10HS High Sensitivity 10Hz Geophone</product_name>
+         <product_id>M_SLDASG10HS</product_id>
+		 <product_image>images/seismic/SG-10HS.jpg</product_image>
+		 <product_info><p>SG-10HS is the new 10Hz Sercel geophone featuring a high sensitivity comparable to a string of multiple geophones.<br /><br/>Especially designed for single sensor applications, SG-10HS enables fast field deployment with lighter weight and full compatibility with 508XT land acquisition systems.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   
+   <group>
+      <family>
+         <family_name>SEABED DATA ACQUISITION SYSTEM</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/seismic/SEABEDDATAACQUISITIONSYSTEM.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Micro OBS</product_name>
+         <product_id>M_MICROOBS</product_id>
+		 <product_image>images/seismic/MicroOBS.jpg</product_image>
+		 <product_info>A new generation of autonomous deep 4C Ocean Bottom Seismometer, MicrOBS dives as far as 6000m down to the sea floor by itself where it records P-S waves up to 24 days via a combination of 3-C low distortion geophones and a hydrophone</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Geo Tag</product_name>
+         <product_id>M_GEOTAG</product_id>
+		 <product_image>images/seismic/GeoTag.jpg</product_image>
+		 <product_info>GeoTag is the new acoustic positioning system from Sercel designed to work with any ocean bottom or transition zone seismic equipment down to 500 meters deep. GeoTag is the smallest acoustic transponder on the market, allowing flexible and cost effective operations due to its ability to be stored on a reel and deployed by mechanical squirter. GeoTag benefits from Sercel’s expertise in advanced acoustic technologies to provide a reliable state of the art turnkey solution for your acoustic positioning needs.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>GPR - SEABED NODAL SOLUTION</product_name>
+         <product_id>M_GPRSNS</product_id>
+		 <product_image>images/seismic/GPRseabed.jpg</product_image>
+		 <product_info>GPRNT is an innovative seabed nodal solution based on Sercel’s leading-edge QuietSeis® technology meeting the very latest seismic industry expectations. The unrivalled digital fidelity and ultra-quiet performance provided by the QuietSeis MEMS ensure enhanced seismic data. Designed for the best seabed coupling, the 4C nodes can record seismic data for up to 50 days and down to 1,500 m water depth. Using a flexible anchoring system, GPR nodes can be deployed either by a remotely operated underwater vehicle (ROV) or via node-on-a-rope (NOAR).</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>SOURCES FOR SEABED DATA ACQUISITION SYSTEM</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/seismic/SOURCESFORSEABEDDATAACQUISITION SYSTEM.jpg</family_image>
+      </family>
+      <product>
+         <product_name>GI Source</product_name>
+         <product_id>M_GISOURCE</product_id>
+		 <product_image>images/seismic/GISource.jpg</product_image>
+		 <product_info>Sercel developed the GI-SOURCE to reduce and suppress the bubble oscillation from a single impulsive source to simplify processing. The GI-SOURCE impulsive source is based on the same technology as the GI-SOURCE but is different in that it has two independent air chambers within the same casing  the Generator (generating the primary pulse and creating the main bubble) and the Injector (injecting air inside the main bubble so that it collapses quickly).</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>UNDERWATER COMMUNICATION</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/seismic/Underwatercommunication.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Multi Modulation Acoustic Telemetry System (MATS 3G)</product_name>
+         <product_id>M_MATS3G</product_id>
+		 <product_image>images/seismic/MATS3G.jpg</product_image>
+		 <product_info>MATS 3G is an underwater acoustic modem that offers a single solution for all underwater communication needs. Its state-of-the-art DSP (Digital Signal Processing) technology ensures long-range and reliable communication. MATS 3G is ideal for AUV (Autonomous Underwater Vehicle) communication. As well as being compact and light, it has a high data-rate link, which can be used to transfer images from a subsea camera or side-scan sonar data to a master vessel at the surface. When deployed in an offshore drilling platform environment, it provides an error-free underwater communication solution to command subsea valve operations. MATS 3G’s use can range from oceanographic applications to real-time monitoring by networked stations across vast instrumented fields.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>MATS LT MICRO ACOUSTIC MODEM</product_name>
+         <product_id>M_MATSLT</product_id>
+		 <product_image>images/seismic/MatsLTMicro.jpg</product_image>
+		 <product_info>MATS LT is a cost-effective micro modem dedicated for underwater acoustic communication and positioning. Its small size, weight and reduced power consumption make MATS LT an ideal solution for compact AUV. Highly efficient, the micro underwater acoustic modem allows a communication range up to 3,500 meters. MATS LT can also be used for your underwater IOT applications. The modem is available in two versions: either cased (water-resistance up to 500 m) or uncased ready for integration in your own solution.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Argos Beacon (Buoys Retriever)</product_name>
+         <product_id>M_ARGOSBEACON</product_id>
+		 <product_image>images/seismic/ArgosBeacon.jpg</product_image>
+		 <product_info>Designed to retrieve a buoy in case of mooring line break, BABS warns owners of line breakage by transmitting a signal to ARGOS satellites while BASM alerts of underwater equipment that may surface by transmitting through the same ARGOS satellite system.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+    <group>
+      <family>
+         <family_name>MARINE DATA ACQUISITION SYSTEM</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/seismic/MARINEDATAACQUISITIONSYSTEM.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Seal 428</product_name>
+         <product_id>M_SEAL428</product_id>
+		 <product_image>images/seismic/Seal428.jpg</product_image>
+		 <product_info>The Seal 428 is the new large capacity and high-resolution seismic data acquisition system designed for marine towed streamers acquisition. It derives its high reliability and versatility from SERCEL’s extensive experience in cable telemetry systems and from the use of the most advanced electronics and workstation technology. The Seal 428 supports extremely long offset recording as well as an unlimited streamer number for increased productivity and data quality. The system has also been designed to match the industry’s expectations for true zero dead time continuous recording, crucial for multi-vessel acquisitions such as Wide Azimuth and undershooting. Taking advantage of Sentinel®, the industry’s only true solid streamer, and of Nautilus®, Sercel’s streamer guidance and control system, and as a result of the outstanding noise performance when using this combination, the Seal 428 offers the highest efficiency and best quality seismic data recordable today.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Quite Sea</product_name>
+         <product_id>M_QUITESEA</product_id>
+		 <product_image>images/seismic/QuiteSea.jpg</product_image>
+		 <product_info>QuietSeaTM is the new passive acoustic monitoring (PAM) system from Sercel designed to detect the presence of marine mammals during seismic operations. For environmentally responsible operations, QuietSea complies with the increasingly widespread marine mammals monitoring regulations worldwide. Unlike other separate antenna PAM systems, QuietSea is seamlessly integrated within the Sercel Sentinel® seismic streamer (Sentinel, Sentinel RD and Sentinel MS) allowing for greatly enhanced marine mammal detection capabilities in a wide frequency listening range that covers a large variety of vocalizing cetacean species.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Nautilus</product_name>
+         <product_id>M_NAUTILUS</product_id>
+		 <product_image>images/seismic/Nautilus.jpg</product_image>
+		 <product_info>Nautilus provides positioning as well as vertical and lateral steering in a unique node. Fully integrated with Sentinel, Nautilus is directly powered from the streamer providing a greater availability and enhanced safety with reduced number of workboat operations. With no concerns regarding battery power conservation, accurate full bracing acoustics and a greater steering force than the competitive systems, Nautilus reduces the line change and keep a better control of any streamer separation reducing in-fill, improving 4D repeatability and increasing productivity.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>SENSORS FOR MARINE DATA ACQUISITION( Streamers )</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/seismic/SENSORSFORMarineDATAACQUISITION.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Sentinel</product_name>
+         <product_id>M_SENTINEL</product_id>
+		 <product_image>images/seismic/SentinelRD.jpg</product_image>
+		 <product_info>With over 5,000 km of streamers delivered to more than 60 seismic vessels worldwide since its introduction in 2005, Sentinel has become the system of choice for streamer seismic survey acquisition. Due to the success of its design, including uniform ballast and its vibration isolation capabilities, Sentinel provides the best signal-to-noise ratio in the industry. In both calm and adverse weather conditions and irrespective of towing depth, Sentinel is the quietest streamer in the market and provides the highest-quality seismic data resulting in the clearest seismic image. Sentinel streamers also offer superior reliability, resulting in increased productivity. The latest member of the Sentinel family, Sentinel® RD, has a reduced diameter, providing reduced cable drag and increased storage capacity onboard seismic vessels, which are some of the key aspects of the marine seismic operations.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Sentinel MS</product_name>
+         <product_id>M_SENTINEL_MS</product_id>
+		 <product_image>images/seismic/SentinelMS.jpg</product_image>
+		 <product_info>Sentinel MS is the new member of the industry standard Sentinel product line offering multi-sensor acquisition along with the very best low frequency, low noise, and highest reliability solid streamer available today. In addition to the field proven hydrophone performance, the new multi-sensor streamer features two additional acceleration components, providing directive measurement for both cross line and vertical wave front.<br/><br/>Sentinel MS delivers multi-sensors data sets for enhanced broadband imaging and the most advanced seismic data processing techniques.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Sentinel RD</product_name>
+         <product_id>M_SENTINEL_RD</product_id>
+		 <product_image>images/seismic/SentinelRD.jpg</product_image>
+		 <product_info>Providing an unsurpassed signal-to-noise performance, Sentinel RD is the best-in-class solid streamer available on the market. In both calm and adverse weather conditions and irrespective of towing depth, Sentinel RD produces the highest-quality seismic data, resulting in the clearest seismic image. Sentinel RD has a reduced diameter, providing reduced cable drag and increased storage capacity onboard seismic vessels. The design of Sentinel RD allows newly built vessels to be designed with smaller winches.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Sentinel HR</product_name>
+         <product_id>M_SENTINEL_HR</product_id>
+		 <product_image>images/seismic/SentinelHR.jpg</product_image>
+		 <product_info>Sentinel <i>HR</i> is the new Sercel solid streamer designed with a very short channel spacing for high resolution acquisition. It integrates the highest performing hydrophone configuration while benefiting from Sentinel’s industry leading capabilities &amp; reliability. It will provide the best imaging &amp; will maximize your productivity. Dedicated for shallow target applications and HR3D surveys, Sentinel <i>HR</i> will be an efficient tool for oceanology, geo-technical, civil engineering and reservoir characterization applications.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   
+   <group>
+      <family>
+         <family_name>SOURCE FOR MARINE DATA ACQUISITION SYSTEM</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/seismic/SOURCEFORMARINEDATAACQUISITIONSYSTEM.jpg</family_image>
+      </family>
+     
+	  <product>
+         <product_name>G Source II</product_name>
+         <product_id>M_GSOURCEII</product_id>
+		 <product_image>images/seismic/GISource2.jpg</product_image>
+		 <product_info>G-SOURCE II is the most advanced impulsive source of its class, bringing high performance in the toughest conditions. Its compact size, easy adaptability and strong performance through a higher peak amplitude than any conventional impulsive source, make it perfect for any advanced marine seismic survey.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Mini GI Source</product_name>
+         <product_id>M_MINIGISOURCE</product_id>
+		 <product_image>images/seismic/MiniGISource.jpg</product_image>
+		 <product_info>Scaled-down models from the already compact GI-SOURCE and G-SOURCE are available for high-resolution, shallow water and transition zone surveys. The Mini G-SOURCE and Mini GI-SOURCE impulsive sources have the same advantages as their larger counterparts, but with even simpler technology.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+    <group>
+      <family>
+         <family_name>DOWNHOLE SEISMIC TOOLS or VSP TOOLS</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/seismic/DOWNHOLESEISMICTOOLSorVSPTOOLS.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Sigma Wave</product_name>
+         <product_id>M_SIGMAWAVE</product_id>
+		 <product_image>images/seismic/SigmaWaveDAS.jpg</product_image>
+		 <product_info>Distributed Acoustic Sensors (DAS) are a revolutionary photonic sensing technology that convert an optical-fiber into a linear array of discrete vibration sensors. Non-intrusive due to the small size - ideal for permanent installation High pressure (up to 30 kpsi) and high temperature resistance (up to 300 degC) with no in-well power Quickly acquire a large amount of data with long antenna (up to 10 km) Improved spatial sampling (down to 0.67 meter) Lower cost and easier permanent deployment Combinable with conventional electronic based sensing and measurement systems</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Geo Wave II</product_name>
+         <product_id>M_GEOWAVEII</product_id>
+		 <product_image>images/seismic/GeoWave2.jpg</product_image>
+		 <product_info>GeoWave® II is the first digital multi-level array capable of continuous acquisition at 400°F. Specifically designed for high temperature, high pressure wells and integrating new high speed telemetry, it has the longest array available on standard wireline and allows for the safe deployment of up to 120 levels in hotter and deeper reservoirs.<br/><br/>Optimized for seismic surveys and microseismic applications, GeoWave II is the most versatile tool and can be used in any well type in the most severe conditions.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Slim Wave</product_name>
+         <product_id>M_SLIMWAVE</product_id>
+		 <product_image>images/seismic/SlimWave.jpg</product_image>
+		 <product_info>SlimWave is a small diameter digital multi-level downhole seismic array for up to 24 levels.  Technologically advanced, it excels in very small diameter wells or any completion restriction.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Maxi Wave</product_name>
+         <product_id>M_MAXIWAVE</product_id>
+		 <product_image>images/seismic/MaxiWave.jpg</product_image>
+		 <product_info>MaxiWave® is the most cost effective digital multi-level downhole seismic array for very large sized downhole seismic surveys. With 100 digital 3-components levels, MaxiWave® benefits from the most advanced developments in terms of real time telemetry and mechanical reliability, that make the system the optimal solution to address today’s challenges for cost effective acquisitions with high volumes and high quality data.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  
+   </group>
+    
+	
+   
+   <group>
+      <family>
+         <family_name>SOFTWARE</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/seismic/SOFTWARE.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Signal Graphic Analyzer</product_name>
+         <product_id>M_SGAnalyzer</product_id>
+		 <product_image>images/seismic/SignalGraphicAnalyzer.jpg</product_image>
+		 <product_info>SGA is the new generation of Signal Graphic Analyzer  QC Tool. With a new user-friendly graphical interface, it can now be installed in any computer to process and analyze signals by reading SEG-D files. Able to work in real-time or in standalone mode, SGA is now compatible with SEG-D  files.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Real–Time Quality Control Software</product_name>
+         <product_id>M_RTQCS</product_id>
+		 <product_image>images/seismic/RealTimeQCS.jpg</product_image>
+		 <product_info>eSQC-Pro interfaces with acquisition modules for real-time quality control of seismic data without slowing down operations. This add-on hardware and software package provides remote access from any authorized PC through the Internet.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>SeaPro Nav (The Field-Proven Navigation System)</product_name>
+         <product_id>M_SeaProNav</product_id>
+		 <product_image>images/seismic/SeaProNav.jpg</product_image>
+		 <product_info>A real-time positioning solution for all marine towed streamer seismic surveys from 2D to 3D to wide azimuth and multi-vessel operations, SeaPro NAV allows users to access data in real-time from anywhere via a state-of-the-art client/server architecture.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+    <group>
+      <family>
+         <family_name>MEMORY GAUGES</family_name>
+		 <family_intro>We offer piezoresistive, shear-mode Quartz memory gauges and gauge carriers. Tailored to any kind of running methods and monitoring challenges: tubing conveyed (DST, Drilling, gravel pack, etc.), coil tubing (injection, foam lift, acidizing, etc.) and slickline (Gradients, build-ups, PI, Interference tests, etc.).</family_intro>
+         <family_image>images/seismic/DownholeMemoryGauges.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Quartz gauges – Up to 225°C/30kpsi</product_name>
+         <product_id>M_QuartzGauge</product_id>
+		 <product_image>images/seismic/QuartzGauges.jpg</product_image>
+		 <product_info>Low Maintenance gauge operated by anyone in less than 10 mins. Laterally locked battery avoids disconnection in operation. Metal-to-metal seal for better protection of the electronic board. External communication port reduces maintenance cost and time.Smart battery system displays the remaining power of your cells. High-temperature electronic board with 4 times redundant memories.  Use for very accurate reservoir monitoring, DST, static/dynamic gradient and build-up. Also for pulse/interference tests and long term jobs. For high sensitivity, high stability, high resolution in hostile conditions and very extreme temperatures.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Slim Quartz gauge – Up 200°C/20kpsi</product_name>
+         <product_id>MMG_SlimQuartz</product_id>
+		 <product_image>images/seismic/SlimQuartz.jpg</product_image>
+		 <product_info>External communication port reduces maintenance cost and time. Smart battery system displays the remaining power of your cells. High-temperature electronic board with 4 times redundant memories. Extra Slim gauge for DST, coil tubing, slickline and slim-hole operations.For very accurate reservoir monitoring, build-up and pulse / interference tests.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Piezo gauges – Up to 177°C/30kpsi</product_name>
+         <product_id>MMG_PiezoGauge</product_id>
+		 <product_image>images/seismic/PiezoGauge.jpg</product_image>
+		 <product_info>Metal-to-metal seal for better protection of the electronic board. Low Maintenance gauge operated by anyone in less than 10 mins. Laterally locked battery avoids disconnection in operation. External communication port reduces maintenance cost and time. High temperature electronic board protected and insulated from vibration. 4 times redundant memories to insure a higher security of your data.Smart battery system displays the remaining power of your cells.Use for very accurate reservoir monitoring, static/dynamic gradient and build-up. Production testing and artificial lift control, multi-well survey without reprogramming.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>1.25″ PTRM5 Piezo gauges with Fast Temperature sensor</product_name>
+         <product_id>MMG_PTRM5</product_id>
+		 <product_image>images/seismic/PTRM5.jpg</product_image>
+		 <product_info>A very accurate tool for an easy well diagnose (leak, cross flow detection, gas lift gauges behavior, etc.). It can be combined with our Depth Recorder to do step-less gradient jobs and save A LOT of time (-8 hours per job on average).</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>1.25″ AMEtrolog5 Piezo gauges – Up to 177°C/30kpsi</product_name>
+         <product_id>MMG_AME125</product_id>
+		 <product_image>images/seismic/Metrolog125.jpg</product_image>
+		 <product_info>An economical alternative to our PRM5 gauge,  without the external communication port. A very rugged tool adapted to long term monitoring or when operations are less frequent.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>0.75″ AMEtrolog5 Slim Piezo Gauge – Up to 177°C/20kpsi</product_name>
+         <product_id>MMG_AME075</product_id>
+		 <product_image>images/seismic/Metrolog5075.jpg</product_image>
+		 <product_info>An economical alternative to our iGauge5 gauge,  without the external communication port. A very rugged tool initially designed for Hydraulic Fracturing operations, monitoring while drilling and any jobs where the upmost robustness is a must have.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Multilog5 - Pressure, Temperature and Flow recorder – Up to 177°C and 10kpsi</product_name>
+         <product_id>MMG_MULTILOG5</product_id>
+		 <product_image>images/seismic/Multilog5.jpg</product_image>
+		 <product_info>Used mainly to perform injection and/or production profiles in monophasic wells, we provide on-site training to help you deploy this equipment and train your team</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Side Pocket Mandrel - Gas Lift Gauge Tubing or Annulus pressure monitoring – Up to 150°C/15kpsi</product_name>
+         <product_id>MMG_SPMGL</product_id>
+		 <product_image>images/seismic/SidePocketGasLift.jpg</product_image>
+		 <product_info>This gauge is compatible with any standard 1’’ SPM of the market. Installed with a kickover tool and run with Slickline, its robust design protects it against the vibration and shocks inherent from this type of operations. The tool can measure either Tubing or Annulus Pressure.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>I Scope</product_name>
+         <product_id>MMG_ISCOPE</product_id>
+		 <product_image>images/seismic/IScope.jpg</product_image>
+		 <product_info>iScope is the first cost effective downhole monitoring system designed to retrieve pressure and temperature data during well testing operations.  With this new breakthrough technology, engineers are able to precisely interpret real-time well pressure build-up.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+    <group>
+      <family>
+         <family_name>GAUGE MONITORING SYSTEM</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/seismic/gaugemonitoring.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Electric Submersible Pump Gauges</product_name>
+         <product_id>GMS_ESP</product_id>
+		 <product_image></product_image>
+		 <product_info>GRC’s ESP Sensor is reliable, rugged, durable and easy to install and operate. Combined with a service team of experienced professionals, accurate data from your well to your desktop is just a click away. GRC’s broad product offering is designed for reliability regardless of the environment. For standard wells, GRC offers ESP sensor systems using rugged, accurate parallel plate gap capacitance transducers. When greater reservoir accuracy is needed, GRC offers ESP Quartz and Piezo sensors.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Gas Lift Gauges</product_name>
+         <product_id>GMS_GL</product_id>
+		 <product_image></product_image>
+		 <product_info>When other artificial lift systems fail, especially Electric Submersible Pumps (ESPs), the result is immediately obvious and often catastrophic. However, a gas-lift system that is operating incorrectly may not be noticed for weeks or even months. A lower field and possibly well production rate will be noted, but could be attributed to reservoir inflow damage, a change in water cut, or simply a production allocation or well test measurement error. In reality, a production advantage is being lost that can rapidly account for tens of thousands of barrels of oil.  An intelligent surface control and optimization system, incorporating the use of Sercel-GRC’s line of downhole gauges and surface data acquisition equipment, can be used to provide an instant warning of a change in operating behavior in a well, which will allow quick operator action and resolution of optimum production rates. In addition, a normally operating gas-lift system can be continuously optimized by proper allocation of injected gas in order to react to events such as change in gas-lift supply volume, change in manifold pressure, or water cuts.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Progressive Cavity Pump Gauges</product_name>
+         <product_id>GMS_PCP</product_id>
+		 <product_image>images/seismic/PCPump.jpg</product_image>
+		 <product_info>Monitoring downhole pressure data can be used to increase pump speed to keep reservoir pressure down to allow for optimal production. Installing a downhole gauge gives the ability to monitor reservoir fluid level and prevent damage to the downhole equipment caused from dry pumping. Gauge parameters can be used to monitor pump efficiency and to act as an early warning system to prevent premature equipment failure.</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Sucker Rod Pump Gauges</product_name>
+         <product_id>GMS_SRP</product_id>
+		 <product_image></product_image>
+		 <product_info>Increase production by maintaining the lowest possible uid level over pump. Avoid premature pump-off due to inaccurate algorithms Improve control over motor speed by monitoring real time bottom hole data. Enable automated decision making using measurements, not assumptions or calculations. Verify pump con guration’s actual performance and efficiency Reduce lifting cost and extend life of pump.
+</product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   
+   <!-- <group> -->
+      <!-- <family> -->
+         <!-- <family_name>GEO PREDICTION SOFTWARE</family_name> -->
+		 <!-- <family_intro></family_intro> -->
+         <!-- <family_image>images/seismic/GEOPREDICTIONSOFTWARE.jpg</family_image> -->
+      <!-- </family> -->
+      <!-- <product> -->
+         <!-- <product_name>RokDoc Solution</product_name> -->
+         <!-- <product_id>GPS_RS</product_id> -->
+		 <!-- <product_image>images/seismic/Rockdoc.jpg</product_image> -->
+		 <!-- <product_info>RokDoc places powerful, sophisticated tools at your fingertips – all on a single, easy-to-use platform. It integrates geological, geophysical and engineering data to enable interdisciplinary analysis, using workflows and automated QC procedures. RokDoc gives you more confidence in the data and subsurface decisions.</product_info> -->
+         <!-- <product_document></product_document> -->
+		 <!-- <product_weblink></product_weblink> -->
+      <!-- </product> -->
+	  <!-- <product> -->
+         <!-- <product_name>Rock Physics</product_name> -->
+         <!-- <product_id>GPS_RP</product_id> -->
+		 <!-- <product_image>images/seismic/RockPhysics.jpg</product_image> -->
+		 <!-- <product_info><p>Pan India offers Ikon Science's Rock Physics module lets both generalists and experts quickly and easily explore hundreds of geological scenarios to investigate the seismic response in both conventional and unconventional plays. Intuitive and powerful, the module features sophisticated rock physics, 2D modelling and well to seismic tie solutions. It seamlessly combines core, log and seismic data into predictive models to ensure your team makes better and faster investment decisions with more confidence.</p> -->
+<!-- <p>Additional Rock Physics Enhancements</p> -->
+<!-- <ul> -->
+<!-- <li>Anisotropy</li> -->
+<!-- <li>Attrimod</li> -->
+<!-- <li>Advanced Well- Tie</li> -->
+<!-- <li>VSP</li> -->
+<!-- </ul> -->
+<!-- </product_info> -->
+         <!-- <product_document></product_document> -->
+		 <!-- <product_weblink></product_weblink> -->
+      <!-- </product> -->
+	  <!-- <product> -->
+         <!-- <product_name>Rock Characteristic</product_name> -->
+         <!-- <product_id>GPS_RC</product_id> -->
+		 <!-- <product_image>images/seismic/RockChar.jpg</product_image> -->
+		 <!-- <product_info><p>Determine the spatial and temporal rock and fluid distributions from exploration to production by combining 3D and 4D seismic data with powerful rock physics-enabled seismic reservoir characterization. Your team can easily define interactive, shared earth models that allow the integration of geophysical, geological and engineering data using powerful rock physics. Reservoir Characterization operates in both time and depth, producing rich descriptions of the subsurface to accurately determine risks.</p> -->
+<!-- <p>Additional Rock Characteristic Enhancements</p> -->
+<!-- <ul> -->
+<!-- <li>SDC Inversion</li> -->
+<!-- <li>Advanced SDC</li> -->
+<!-- <li>Ji-Fi (Joint Impedance and Facies Inversion)</li> -->
+<!-- <li>Reservoir Monitoring</li> -->
+<!-- </ul></product_info> -->
+         <!-- <product_document></product_document> -->
+		 <!-- <product_weblink></product_weblink> -->
+      <!-- </product> -->
+	  <!-- <product> -->
+         <!-- <product_name>Pressure Prediction</product_name> -->
+         <!-- <product_id>GPS_PP</product_id> -->
+		 <!-- <product_image>images/seismic/PressurePre.jpg</product_image> -->
+		 <!-- <product_info><p>Establish the distribution of pore pressure and stress in the subsurface, understand pressure distribution and the geological basis for the development of overpressure with Ikon's Pressure Prediction module. It effectively analyzes direct and indirect (mudweights) pressure measurements, and allows you build and calibrate pore pressure models Your team can easily assess drilling data, image logs and lab data, as well as link dynamic and static measurements to determine stress regimes and interpret historical drilling and production performance. It combines geopressure and geomechanical models with 3D elastic properties to understand risk and estimate and forecast drilling and production performance at undrilled leads and prospects across the drilling portfolio.<br /><br/>Additional Pressure Prediction Enhancements</p> -->
+<!-- <ul> -->
+<!-- <li>Geomechanics and Image Logs</li> -->
+<!-- <li>Seismic Pressure Calculator</li> -->
+<!-- </ul></product_info> -->
+         <!-- <product_document></product_document> -->
+		 <!-- <product_weblink></product_weblink> -->
+      <!-- </product> -->
+	  <!-- <product> -->
+         <!-- <product_name>IPOINT</product_name> -->
+         <!-- <product_id>GPS_IPOINT</product_id> -->
+		 <!-- <product_image>images/seismic/IPOINT.jpg</product_image> -->
+		 <!-- <product_info>iPoint provides a single home for all wellbore data, regardless of source or type. Preserve the information that’s important to your organization in a familiar manner, encouraging adoption and utilization across your teams.</product_info> -->
+         <!-- <product_document></product_document> -->
+		 <!-- <product_weblink></product_weblink> -->
+      <!-- </product> -->
+	  
+   <!-- </group> -->
+</seismic>
+
+ <!-- <group> -->
+      <!-- <family> -->
+         <!-- <family_name></family_name> -->
+		 <!-- <family_intro></family_intro> -->
+         <!-- <family_image>images/home/makeinindia.jpg</family_image> -->
+      <!-- </family> -->
+      <!-- <product> -->
+         <!-- <product_name></product_name> -->
+         <!-- <product_id></product_id> -->
+		 <!-- <product_image>images/seismic/</product_image> -->
+		 <!-- <product_info></product_info> -->
+         <!-- <product_document></product_document> -->
+		 <!-- <product_weblink></product_weblink> -->
+      <!-- </product> -->
+   <!-- </group> -->

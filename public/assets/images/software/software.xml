@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<softwares>
+<software>
+         <software_title>HYDASPRO <i>i</i></software_title>
+		 <software_image>Hydasproi.jpg</software_image>
+		 <software_info>HYDASPRO i  is a hydro-graphic data acquisition software which is designed to aid all aspects of hydro-graphic survey. HYDASPRO i  is designed to be intuitive and very user friendly indeed. Its offers several tools for various Sensors Configuration, Survey Planning, Data Logging and various textual &amp; graphical displays for real time visualization of survey. Both serial sensors and network sensors can be interfaced in HYDASPRO i. Taking advantage of the ever increasing speed of computer processors it is capable of logging data from many sensors with the accuracy and repeatability necessary to meet IHO Standards in quality and format compatibility. HYDASPRO i provides you 1 ms accurate time stamping. It provides electronic navigation aid to the hydrographer for safe navigation with the help of user configurable alarms. It also provides support for different background maps such as AutoCAD DXF, ArcGIS Shape file, Geotiff, ENC, BSF and AML charts and import and export facility of survey features to KML, KMZ and ArcGIS Shape files along with multiple display facility for both Surveyor and Helmsman. 
+</software_info>
+         <software_document></software_document>
+</software>
+
+<software>
+         <software_title>NAVAREA VIII CO-ORDINATION CENTER</software_title>
+		 <software_image>N8.jpg</software_image>
+		 <software_info>The Maritime Safety Coordination Centre, also known as NAVAREA VIII Coordination Centre, is a software tool to display and monitor status of various Navtex, T&amp;P and NAVAREA VIII warnings between NHO(Dehradun) and NCD(Mumbai). The mode of communication between NHO and NCD is the Naval Intranet Network. The software is GIS based and supports IHO S-57 Electronic Navigational Chart (ENC) in the background.
+		 <br/><br/>NAVAREA VIII CO-ORDINATION CENTER is Windows based software to add, view,  analyze and cancel the NAVAREA VIII warnings on ENC background. It is based on Client-Server model where any of the connected machine can work in either of the role. All the charts related to NAVAREA VIII are displayed as Polygon and can be queried using a mouse click.</software_info>
+         <software_document></software_document>
+</software>
+<software>
+         <software_title>PI Secure</software_title>
+		 <software_image>PISecure.jpg</software_image>
+		 <software_info>‘PI Secure’ is the application built to implement IHO Data Protection Scheme. The purpose of data protection is Piracy Protection, Selective Access and Authentication. ‘PI Secure’ act as Data Server and is responsible for encrypting and signing ENC data in compliance with the procedures and processes defined in the IHO Data Protection Scheme. Data Servers issue ENC licences (permits) so that Data Clients, with valid user permits, can decrypt ENC data.
+</software_info>
+         <software_document></software_document>
+</software> 
+<software>
+         <software_title>Web Application Development</software_title>
+		 <software_image>WebDev.jpg</software_image>
+		 <software_info>Today each businesses rely on website that  not only generate leads, but take a load off of their day-to-day work processes. Apart from Application development, we are also in Website development and maintenance. Our corporate site is an in-house development.</software_info>
+         <software_document></software_document>
+</software> 
+<software>
+         <software_title>Windows Mobile Application Development</software_title>
+		 <software_image>WMD.jpg</software_image>
+		 <software_info>Mobile application development is a term used to denote the act or process by which application software is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. 
+<br/><br/>
+“PI Camera” and “PIC Field Logger” were built for Windows 6.5 Mobile devices(Spectra Precision  MM10) for collecting points and capturing image with Geo-tagging on it.
+</software_info>
+         <software_document></software_document>
+</software>
+<software>
+         <software_title>FIELD MAPPER</software_title>
+		 <software_image>FieldMapper.jpg</software_image>
+		 <software_info>FIELD MAPPER is developed for Android based devices. The project deals with Land Survey Navigation where a user can log Point, Area etc. It supports background charts (ESRI Shape &amp; GeoTiff) and live maps (Google Maps). It can also be used for STACKING.
+
+</software_info>
+         <software_document></software_document>
+</software>
+<software>
+         <software_title>SAGAR KINARA</software_title>
+		 <software_image>sagarkinara.jpg</software_image>
+		 <software_info>SAGAR KINARA, a project for NHO, developed for Android devices. The  objective of the application is to collect data for cartography purpose which will be further used in publishing ENC’s.
+</software_info>
+         <software_document></software_document>
+</software> 
+ <software>
+         <software_title>Sales Management</software_title>
+		 <software_image>salesmgmt.jpg</software_image>
+		 <software_info>Sales Management:- A small enterprise ERP which lets you manage Invoices, Purchase Orders, Leads, EMDs, PBGs, Tenders on the single click to avoid data redundancy in any manner.
+This tool generates PI charts, Statistical charts based on the all data available or with dates customization. This tool can be available with customization as per the users requirement.
+
+</software_info>
+         <software_document></software_document>
+</software> 
+</softwares>
+
+ 
+<!-- <software>
+         <software_title></software_title>
+		 <software_image></software_image>
+		 <software_info></software_info>
+         <software_document></software_document>
+</software>  -->
+

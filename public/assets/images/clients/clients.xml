@@ -1,0 +1,408 @@
+<clients>
+	<account>
+		<name>Adani Power Limited</name>
+		<logo><img src="images/clients/AdaniPower.jpg"/></logo>
+				
+	</account>
+	<account>
+		<name>Airport Authority of India</name>
+		<logo><img src="images/clients/AAI.jpg"/></logo>
+		
+		
+	</account>
+	<account>
+		<name>Bangalore Metro Rail Corporation Limited, Bangalore</name>
+		<logo><img src="images/clients/BangaloreMetro.jpg"/></logo>
+				
+	</account>
+	<account>
+		<name>BEML Limited, Bangalore </name>
+		<logo><img src="images/clients/BEML.jpg"/></logo>
+				
+	</account>
+	<account>
+		<name>Bharat Heavy Electrical Ltd., Jhansi</name>
+		<logo><img src="images/clients/BHEL.jpg"/></logo>
+				
+	</account>
+	<account>
+		<name>BSES Rajdhani Power Ltd.</name>
+		<logo><img src="images/clients/BSES.jpg"/></logo>
+		
+		
+	</account>
+	<account>
+		<name>Border Security Force</name>
+		<logo><img src="images/clients/BSF.jpg"/></logo>
+	</account>
+		<account>
+		<name>Central Organisation for Modernisation of Workshops, New Delhi</name>
+		<logo><img src="images/clients/CentralOFMOW.jpg"/></logo>
+	</account>
+	<account>
+		<name>Central Railway</name>
+		<logo><img src="images/clients/CentralRailway.jpg"/></logo>
+	</account>
+	<account>
+		<name>Centre for Marine Living Resources &amp; Ecology</name>
+		<logo><img src="images/clients/CMLRE.jpg"/></logo>
+		
+		
+	</account>
+	<account>
+		<name>Chennai Port Trust</name>
+		<logo><img src="images/clients/ChennaiPort.jpg"/></logo>
+	</account>
+	<account>
+		<name>Chittaranjan Locomotive Works, Chittaranjan</name>
+		<logo><img src="images/clients/Chittranjan.jpg"/></logo>
+	</account>
+	<account>
+		<name>Cochin Shipyard Limited</name>
+		<logo><img src="images/clients/CochinShipyard.jpg"/></logo>
+	</account>
+	<account>
+		<name>Delhi Metro Rail Corporation, New Delhi</name>
+		<logo><img src="images/clients/DelhiMetro.jpg"/></logo>
+	</account>
+	<account>
+		<name>Diesel Locomotive Works, Varanasi</name>
+		<logo><img src="images/clients/DieselLoco.jpg"/></logo>
+	</account>
+	<account>
+		<name>Diesel Loco Modernisation Works, Patiala</name>
+		<logo><img src="images/clients/DieselModern.jpg"/></logo>
+	</account>
+	<account>
+		<name>Department of Revenue, Rehabilitation and Disaster Management, Punjab</name>
+		<logo><img src="images/clients/PunjabRevenueDept.jpg"/></logo>
+		
+		
+	</account>
+	<account>
+		<name>Dept of Survey Settlement &amp; Land Records, Karnataka</name>
+		<logo><img src="images/clients/KarnatakaLandRecord.jpg"/></logo>
+		
+		
+	</account>
+	<account>
+		<name>Dredging Corporation of India</name>
+		<logo><img src="images/clients/DCI.jpg"/></logo>
+	</account>
+	<account>
+		<name>East Central Railway</name>
+		<logo><img src="images/clients/EastCentralRail.jpg"/></logo>
+	</account>
+	<account>
+		<name>Eastern Railway</name>
+		<logo><img src="images/clients/EasternRailway.jpg"/></logo>
+	</account>
+	<account>
+		<name>Electronics Corporation of India Limited</name>
+		<logo><img src="images/clients/ECIL.jpg"/></logo>
+	</account>
+	<account>
+		<name>Forest Survey of India</name>
+		<logo><img src="images/clients/FSI.jpg"/></logo>
+		
+		
+	</account>
+	
+		<account>
+		<name>Garden Reach Shipbuilders &amp; Engineers Ltd</name>
+		<logo><img src="images/clients/GRSE.jpg"/></logo>
+	</account>
+	
+	<account>
+		<name>Geoservices Maritime Pvt. Ltd.</name>
+		<logo><img src="images/clients/Geoservices.jpg"/></logo>
+	</account>
+	<account>
+		<name>Goa Shipyard Limited</name>
+		<logo><img src="images/clients/GoaShipyardLtd.jpg"/></logo>
+	</account>
+	<account>
+		<name>Hindustan Shipyard Limited</name>
+		<logo><img src="images/clients/HSL.jpg"/></logo>
+	</account>
+	<account>
+		<name>Hydrographic Survey Wing, Thiruvananthapuram</name>
+		<logo><img src="images/clients/HSW.jpg"/></logo>
+	</account>
+	<account>
+		<name>Hyderabad Metro Rail, Hyderabad</name>
+		<logo><img src="images/clients/HyderabadMetro.jpg"/></logo>
+	</account>
+	<account>
+		<name>Indian Coast Guard</name>
+		<logo><img src="images/clients/IndianCoastGuard.jpg"/></logo>
+	</account>
+	<account>
+		<name>Indian Railways</name>
+		<logo><img src="images/clients/IndianRailways.jpg"/></logo>
+	</account>
+	<account>
+		<name>Integral Coach Factory, Chennai</name>
+		<logo><img src="images/clients/IntegralCoach.jpg"/></logo>
+	</account>
+		<account>
+		<name>Indian Institute of Technology, Bhubneshwar</name>
+		<logo><img src="images/clients/IITBhubneshwar.jpg"/></logo>
+	</account>
+	<account>
+		<name>Indian Institute of Technology, Delhi</name>
+		<logo><img src="images/clients/IITDelhi.jpg"/></logo>
+	</account>
+		<account>
+		<name>Indian Institute of Technology, Dhanbad</name>
+		<logo><img src="images/clients/IITDhanbad.jpg"/></logo>
+	</account>
+		<account>
+		<name>Indian Institute of Technology, Kanpur</name>
+		<logo><img src="images/clients/IITKanpur.jpg"/></logo>
+	</account>
+		<account>
+		<name>Indian Institute of Technology, Kharagpur</name>
+		<logo><img src="images/clients/IITKharagpur.jpg"/></logo>
+	</account>
+		<account>
+		<name>Indian Institute of Technology, Madras</name>
+		<logo><img src="images/clients/IITMadras.jpg"/></logo>
+	</account>
+		<account>
+		<name>Indian Institute of Technology, Mandi</name>
+		<logo><img src="images/clients/IITMandi.jpg"/></logo>
+	</account>
+		<account>
+		<name>Indian Institute of Technology, Roorkee</name>
+		<logo><img src="images/clients/IITRoorkee.jpg"/></logo>
+	</account>
+	<account>
+		<name>Indian National Centre for Ocean Information Services</name>
+		<logo><img src="images/clients/INCOIS.jpg"/></logo>
+		
+		
+	</account>
+	<account>
+		<name>Indian Institute of Remote Sensing</name>
+		<logo><img src="images/clients/IIRS.jpg"/></logo>
+		
+		
+	</account>
+	
+	<account>
+		<name>Inland Waterways Authority of India</name>
+		<logo><img src="images/clients/IWAI.jpg"/></logo>
+	</account>
+	<account>
+		<name>Jaipur Metro Rail Corporation Ltd., Jaipur </name>
+		<logo><img src="images/clients/JaipurMetro.jpg"/></logo>
+	</account>
+	<account>
+		<name>Kochi Metro Rail Limited, Kochi</name>
+		<logo><img src="images/clients/KochiMetro.jpg"/></logo>
+	</account>
+	
+	<account>
+		<name>Kolkata Port Trust</name>
+		<logo><img src="images/clients/KolkataPort.jpg"/></logo>
+	</account>
+	<account>
+		<name>Konkan Railway</name>
+		<logo><img src="images/clients/KonkanRailway.jpg"/></logo>
+	</account>
+	
+	<account>
+		<name>L&amp;T Construction</name>
+		<logo><img src="images/clients/LnTConst.jpg"/></logo>
+		
+		
+	</account>
+	<account>
+		<name>L&amp;T Shipbuilding</name>
+		<logo><img src="images/clients/LnTShips.jpg"/></logo>
+	</account>
+	<account>
+		<name>Lucknow Metro Rail Corporation Ltd., Lucknow</name>
+		<logo><img src="images/clients/LucknowMetro.jpg"/></logo>
+	</account>
+	<account>
+		<name>Madhya Pradesh Forest Department</name>
+		<logo><img src="images/clients/MPFD.jpg"/></logo>
+	</account>
+	<account>
+		<name>Mahatma Gandhi University, Kerala</name>
+		<logo><img src="images/clients/MGU.jpg"/></logo>
+		</account>
+	<account>
+		<name>Maulana Azad National Institute of Technology, Bhopal</name>
+		<logo><img src="images/clients/Manit.jpg"/></logo>
+	</account>
+	<account>
+		<name>Modern Coach Factory, Raebareli</name>
+		<logo><img src="images/clients/ModernCoachFactory.jpg"/></logo>
+	</account>
+	<account>
+		<name>Mormugao Port Trust</name>
+		<logo><img src="images/clients/MPT.jpg"/></logo>
+	</account>
+	<account>
+		<name>Mumbai Metro Rail Corporation Ltd. , Mumbai</name>
+		<logo><img src="images/clients/MumbaiMetro.jpg"/></logo>
+	</account>
+	<account>
+		<name>National Centre for Earth Science Studies</name>
+		<logo><img src="images/clients/NCESS.jpg"/></logo>
+	</account>
+	<account>
+		<name>National Centre for Polar and Ocean Research</name>
+		<logo><img src="images/clients/NCAOR.jpg"/></logo>
+	</account>
+		<account>
+		<name>NATIONAL DISASTER RESPONSE FORCE</name>
+		<logo><img src="images/clients/NDRF.jpg"/></logo>
+	</account>
+	<account>
+		<name>National Hydrographic Office</name>
+		<logo><img src="images/clients/NHO.jpg"/></logo>
+	</account>
+	<account>
+		<name>National Institute of Hydrology</name>
+		<logo><img src="images/clients/NIH.jpg"/></logo>
+	</account>
+	<account>
+		<name>National Institute of oceanography (NIO)</name>
+		<logo><img src="images/clients/NIO.jpg"/></logo>
+		
+		
+	</account>
+	<account>
+		<name>National Institute of Ocean Technology (NIOT)</name>
+		<logo><img src="images/clients/NIOT.jpg"/></logo>
+	</account>
+	<account>
+		<name>Naval Physical &amp; Oceanographic Laboratory (NPOL)</name>
+		<logo><img src="images/clients/NPOL.jpg"/></logo>
+	</account>
+	<account>
+		<name>Noida Metro Rail Corporation Ltd., Noida</name>
+		<logo><img src="images/clients/NoidaMetro.jpg"/></logo>
+	</account>
+	<account>
+		<name>Noida Power Company Limited</name>
+		<logo><img src="images/clients/NPCL.jpg"/></logo>
+	</account>
+	<account>
+		<name>North Central Railway</name>
+		<logo><img src="images/clients/NorthCentral.jpg"/></logo>
+	</account>
+	<account>
+		<name>North Eastern Railway</name>
+		<logo><img src="images/clients/NorthEastern.jpg"/></logo>
+	</account>
+	<account>
+		<name>Northeast Frontier Railway</name>
+		<logo><img src="images/clients/NorthEastFrontierRail.jpg"/></logo>
+	</account>
+	<account>
+		<name>Northern Railway</name>
+		<logo><img src="images/clients/NorthernRailway.jpg"/></logo>
+	</account>
+	<account>
+		<name>North Western Railway</name>
+		<logo><img src="images/clients/NorthWestRail.jpg"/></logo>
+	</account>
+	<account>
+		<name>Oil India Limited</name>
+		<logo><img src="images/clients/OilIndiaLtd.jpg"/></logo>
+	</account>
+	<account>
+		<name>Oil and Natural Gas Corporation Limited</name>
+		<logo><img src="images/clients/ONGC.jpg"/></logo>
+	</account>
+	<account>
+		<name>Port Pipavav</name>
+		<logo><img src="images/clients/Pipavav.jpg"/></logo>
+	</account>
+	<account>
+		<name>Rail Coach Factory, Kapurthala</name>
+		<logo><img src="images/clients/RailCoach.jpg"/></logo>
+	</account>
+	<account>
+		<name>Rapid Metro, Gurgaon</name>
+		<logo><img src="images/clients/RapidMetro.jpg"/></logo>
+	</account>
+	<account>
+		<name>Reliance Infrastructure Ltd.</name>
+		<logo><img src="images/clients/RelianceInfra.jpg"/></logo>
+		
+		
+	</account>
+	<account>
+		<name>Remote Sensing Application Centre</name>
+		<logo><img src="images/clients/RSAC.jpg"/></logo>
+		
+		
+	</account>
+	
+	<account>
+		<name>Research, Designs &amp; Standards Organization, Lucknow</name>
+		<logo><img src="images/clients/ResearchDSO.jpg"/></logo>
+	</account>
+	
+	<account>
+		<name>Secon Pvt. Ltd.</name>
+		<logo><img src="images/clients/SECON.jpg"/></logo>
+	</account>
+	<account>
+		<name>South Central Railway</name>
+		<logo><img src="images/clients/SouthCentralRailway.jpg"/></logo>
+	</account>
+	<account>
+		<name>South East Central Railway</name>
+		<logo><img src="images/clients/SouthEastCentral.jpg"/></logo>
+	</account>
+	<account>
+		<name>South Eastern Railway</name>
+		<logo><img src="images/clients/SouthEastRail.jpg"/></logo>
+	</account>
+	<account>
+		<name>Southern Railway</name>
+		<logo><img src="images/clients/SouthernRailway.jpg"/></logo>
+	</account>
+	<account>
+		<name>South Western Railway</name>
+		<logo><img src="images/clients/SouthWestRail.jpg"/></logo>
+	</account>
+	
+	<account>
+		<name>Survey Of India, Dehradun</name>
+		<logo><img src="images/clients/SurveyOfIndia.jpg"/></logo>
+		
+		
+	</account>
+	<account>
+		<name>Tata Power Limited</name>
+		<logo><img src="images/clients/TataPower.jpg"/></logo>
+		
+		
+	</account>
+	<account>
+		<name>Visakhapatnam Port Trust</name>
+		<logo><img src="images/clients/VPT.jpg"/></logo>
+	</account>
+	<account>
+		<name>WAPCOS Limited</name>
+		<logo><img src="images/clients/WAPCOS.jpg"/></logo>
+		
+		
+	</account>
+	<account>
+		<name>West Central Railway</name>
+		<logo><img src="images/clients/WestCentralRail.jpg"/></logo>
+	</account>
+	<account>
+		<name>Western Railway</name>
+		<logo><img src="images/clients/WesternRailways.jpg"/></logo>
+	</account>
+</clients>

@@ -1,0 +1,25 @@
+<master>
+<product>
+			<name>Front</name>
+			<link></link>
+			<image>t20 motionscan.jpg</image>
+		</product>
+		<product>
+			<name>Left</name>
+			<link></link>
+			<image>SP85.jpg</image>
+		</product>
+		<product>
+			<name>Back</name>
+			<link></link>
+			<image>sps986.jpg</image>
+		</product>
+		<product>
+			<name>Right</name>
+			<link></link>
+			<image>Trimble X7.jpg</image>
+		</product>
+
+</master>
+
+

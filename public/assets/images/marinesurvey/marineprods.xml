@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marine>
+   <group>
+      <family>
+         <family_name>MARINE SURVEY EQUIPMENTS</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/marinesurvey/MarineSurveyEquip.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Differential Global Positioning System</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Data Logging &amp; Processing Software</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Single Beam Echosounder</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Multibeam Echosounder (SW)</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Multibeam Echosounder (DW)</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Tide Gauge</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Pressure Sensor</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Sound Velocity Profiler</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Sub Bottom Profiler</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Motion Reference Unit</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>MARINE NAVIGATION EQUIPMENTS</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/marinesurvey/navigation.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Relocation Strobes</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Target Surveillance</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Berth &amp; Navigation System</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Gyro Compass</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	 
+   </group>
+   <group>
+      <family>
+         <family_name>OCEANOGRAPHIC EQUIPMENTS</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/marinesurvey/DataBuoys.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Current Meter</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Acoustic Doppler Current Profiler</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Doppler Velocity Log</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  
+	   <product>
+         <product_name>RapidCast CTD</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Underwater Camera &amp; Lights</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Hydrophones</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Acoustic Release</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Profiling Floats</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Acoustic Pingers</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Becons</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Load Cells</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Neutrient Analyzer</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Drifters</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Data Buoys</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Under Water Battery Packs</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>PCO2 Analyzer</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+    <group>
+      <family>
+         <family_name>TURBULENCE EQUIPMENTS </family_name>
+		 <family_intro></family_intro>
+         <family_image>images/marinesurvey/TurbulenceEquipments.jpg</family_image>
+      </family>
+	   <product>
+         <product_name>Turbulence Profiler</product_name>
+         <product_id>MSS_TETP1</product_id>
+		 <product_image>images/marinesurvey/turbulence profiler.jpg</product_image>
+		 <product_info><p>Turbulence Profiler is a coastal-zone profiler for the measurement of micro-scale turbulence. The profiler is designed for operation for small vessels with limited deck space (e.g., Zodiacs), or where electrical power facilities are limited or missing (e.g., ice camps). The VMP-250 records data internally on a memory card, eliminating the requirement for a deck-side power supply and data recording system (i.e., laptop). The battery and memory allow for up to 24 hours of continuous autonomous operation. It is possible to do repeated profiles without recovering the profiler between deployments. At the end of the profiling series, the recorded data are read out through a USB connector at the rear bulkhead.</p>
+<strong>Features</strong>
+<ul>
+<li>Internal recording for up to 36 hours of autonomous operation</li>
+<li>Easy deployment from small vessels</li>
+<li>Two shear probes, 1 thermistor, 1 micro conductivity probe (option)</li>
+<li>Nose mounted CT sensor and Fluorometer</li>
+<li>Uprising Profiling Option</li>
+<li>500 m depth rating (1000m option)</li>
+</ul></product_info>
+         <product_document>images/marinesurvey/documents/turbulence Profiler.pdf</product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  </group>
+   <group>
+      <family>
+         <family_name>SURFACE &amp; UNDERWATER VEHICLE</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/marinesurvey/SurfaceUnderwaterVehicle.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Under Water Vehicle</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Remotely Operated Vehicle (ROV)</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Autonomous Underwater Vehicle (AUV)</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Unmanned Surface Vehicle (USV)</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Deep Towed Vehicle</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>MONITORING SOLUTIONS</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/marinesurvey/SearchRescue.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Sonars</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	 <product>
+         <product_name>Diver Held Sonars</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Oil Spill Detection System</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Wave &amp; Surface Current Monitoring</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Hydrophone</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Remotely Operated Vehicles (ROV)</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Unmanned Surface Vehicle (USV)</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Side Scan Sonar</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>SAMPLING EQUIPMENTS</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/marinesurvey/SamplingEquipment.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Water Sampler</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>MultiPlankton Net</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Bongo Net</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  
+   </group>
+    <group>
+      <family>
+         <family_name>CORER EQUIPMENTS</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/marinesurvey/corer.jpg</family_image>
+      </family>
+     
+	   <product>
+         <product_name>Box Corer</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Multiple Corer</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>MARINE CONSTRUCTION SOLUTIONS</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/marinesurvey/MarineConstSol.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Back Hoe Dredging Solutions</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Cutter Section Solution</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Block Placement Solution</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Excavator Solution</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+	<group>
+      <family>
+         <family_name>SOFTWARES</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/marinesurvey/Softwares.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Singlebeam &amp; Multibeam Data Acquisition &amp; Processing Software</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Marine Construction Software</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Caris Base Editor</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Caris Hydrographic Production Database (HPD)</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Caris S-57 Composer</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Caris Paper Chart Composer</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Caris LOTS Limits and Boundaries</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Caris Engineering Analysis Module (EAM)</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Caris Onboard</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Caris HIPS and SIPS</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Caris Bathy DataBASE</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Caris MiraAI</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	  <product>
+         <product_name>Caris Easy View</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>SENSORS</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/marinesurvey/Sensors.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Underwater Altimeter</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Depth Sensor</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Underwater AHRS</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Dissolved Oxygen Sensor</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>CTD Sensor</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>PAR Sensor</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Chlorophyll Sensor</product_name>
+         <product_id></product_id>
+		 <product_image></product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+   <group>
+      <family>
+         <family_name>WINCH</family_name>
+		 <family_intro></family_intro>
+         <family_image>images/marinesurvey/geotechnical.jpg</family_image>
+      </family>
+      <product>
+         <product_name>Mooring Winches</product_name>
+         <product_id>winchmw</product_id>
+		 <product_image>images/marinesurvey/mooringwinches.jpg</product_image>
+		 <product_info><p><strong>RTG</strong> offers a range of mooring winches, these can be split into 2 main categories:<br /><br /><strong>1. MOORING (multi winch lift applications)</strong></p>
+<blockquote><strong>RTG</strong> can offer a range of mooring winches. These range 3Te to 75Te load capacity. Winches are designed robustly on a sacrificial sub frame.<br />Supplied with or without level wind. Full DNV design approval and manufacture under survey can be offered on request.<br />The <strong>RTG</strong> mooring winch range has generally 2 types I direct pull system, and traction winch.</blockquote>
+<p><br /><strong>2. MOORING (Subsea Moorings)</strong></p>
+<blockquote><strong>RTG</strong> can offer supplied traction winches for installation and recovery of subsea moorings.<br />Winches have been developed to handle and pass the chains and linkages safely, without damage, through the system.<br />Clamping and stopper systems have been integrated into the winch system to ensure safe connection and disconnection operation.<br />The traction winch barrel design allows the master link assembly to pass over it.</blockquote></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Geotechnical</product_name>
+         <product_id>winchgeo</product_id>
+		 <product_image>images/marinesurvey/geotechnical.jpg</product_image>
+		 <product_info><p><strong>RTG</strong> has extensive experience in the development of seabed sampling systems. Giant Piston corers, Gravity corers, Box corers, LARS for Cone penetration testing, HPT and other bespoke systems.<br /><br /><strong>RTG</strong> has developed solutions to overcome many of the problems associated with geotechnical surveys of the seabed. <strong>RTG</strong> has solutions that extend the life / minimise the damage risk occurring during the coring process whilst the corer is fixed to the sea bed, and the core sample is being extracted. Under these conditions damage may occur the main lift cable / umbilical if a suitable solutions is not selected. <strong>RTG</strong> provides cost effective solution, that enhances operational safety and reliability.<br /><br/>When a tool is captive subsea, in the seabed, connected via a cable or umbilical to a moving vessel, the risk exists that equipment maybe lost or stuck under water. Such a situation can gives rise to a broken umbilical or cable, project down time and expensive intervention to recover the tool. <strong>RTG</strong> has developed a solution, proven in the field, and while in operation with a leading operator, set a working depth record of 3000m for a CPT sampling system.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Seismic</product_name>
+         <product_id>winchseismic</product_id>
+		 <product_image>images/marinesurvey/seismic.jpg</product_image>
+		 <product_info></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+	   <product>
+         <product_name>Oceanographic / Survey</product_name>
+         <product_id>winchos</product_id>
+		 <product_image>images/marinesurvey/oceanographic.jpg</product_image>
+		 <product_info><p><strong>Romica has a range of standard designs for survey winches:</strong></p>
+<p>Electrical and hydraulic driven winch options<br />With or without level wind<br />Level wind operation can be mechanical, electrical or hydraulic drive<br />We have supplied cable capacities ranging between 300m to 4000m<br />Systems can be incorporated into containers and equiped with integrated handling cranes for the sidescan and other survey equipment.</p></product_info>
+         <product_document></product_document>
+		 <product_weblink></product_weblink>
+      </product>
+   </group>
+</marine>
+
+ <!-- <group> -->
+      <!-- <family> -->
+         <!-- <family_name></family_name> -->
+		 <!-- <family_intro></family_intro> -->
+         <!-- <family_image>images/home/makeinindia.jpg</family_image> -->
+      <!-- </family> -->
+      <!-- <product> -->
+         <!-- <product_name></product_name> -->
+         <!-- <product_id></product_id> -->
+		 <!-- <product_image></product_image> -->
+		 <!-- <product_info></product_info> -->
+         <!-- <product_document></product_document> -->
+		 <!-- <product_weblink></product_weblink> -->
+      <!-- </product> -->
+   <!-- </group> -->

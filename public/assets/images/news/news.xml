@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<story>
+         <story_title>DESO 30 Repair onboard ship</story_title>
+		 <story_header_image>Repair onboard.jpg</story_header_image>
+		 <story_gallery_id>SHIPDESO30</story_gallery_id>
+		 <story_info>Pan India Service Engineer repairing DESO 30 onboard ship in difficult COVID-19 situation.</story_info>
+		 <story_images_folder>Repair Onbaord</story_images_folder>
+</story> 
+<story>
+         <story_title>UAV Drone Sold for SVAMITVA Scheme</story_title>
+		 <story_header_image>Drone Svamitva.jpg</story_header_image>
+		 <story_gallery_id>UAVDSS</story_gallery_id>
+		 <story_info><p>Pan India has sold 10 numbers of Insight 2.0 Drones under Svamitva scheme.</p><p>About Svamitva (Survey of villages and mapping with improvised technology in village areas) scheme:</p>
+<ul>
+<li>The Government of India (GOI) has decided to implement the Central Sector scheme 'SVAMITVA' aiming to provide an integrated property validation solution for rural</li>
+<li>The demarcation of abadi areas (the abadi area includes inhabitant land, inhabited areas contiguous to Abadi and wadis/basties in rural areas ) would be done using <strong>Drone Surveying </strong></li>
+<li>This would provide the '<strong>record of rights</strong>' to village household owners possessing houses in inhabited rural areas in villages which, in turn, would enable them to use their property as a Financial Asset for taking loans and other financial benefits from Banks.</li>
+<li>Further, this would also enable updation of property and asset register to strengthen tax collection and demand assessment process of Gram Panchayats. Thus, the legal record of property holders and issuance of 'Property Cards' to household owners based thereon would facilitate monetization of rural residential assets for the purchase of credit and other financial</li>
+</ul>
+</story_info>
+		 <story_images_folder>Svamitva Drone</story_images_folder>
+</story> 
+
+<story>
+         <story_title>Coastal Mapping Kerala</story_title>
+		 <story_header_image>Coastal Mapping Kerala.jpg</story_header_image>
+		 <story_gallery_id>CMK1</story_gallery_id>
+		 <story_info>Coastal Mapping Project using SPS986 done by our client in Thiruvananthapuram, Kerala.</story_info>
+		 <story_images_folder>Coastal Mapping Kerala</story_images_folder>
+		 
+</story>
+<story>
+         <story_title>L &amp; T Geostructure, UPPUR (Ramanathapuram)</story_title>
+		 <story_header_image>LnT Geostructure Uppur.jpg</story_header_image>
+		 <story_gallery_id>LnTGU1</story_gallery_id>
+		 <story_info>L&amp;T Geostructure installation using SPS986 by our client in Kudankulam, Tamilnadu.</story_info>
+		 <story_images_folder>L&amp;T Geostructure Uppur</story_images_folder>
+</story>
+<story>
+         <story_title>Lippmann IP resistivity meter, NIT Suratkal </story_title>
+		 <story_header_image>Lippmann NIT Suratkal.jpg</story_header_image>
+		 <story_gallery_id>LIRM1</story_gallery_id>
+		 <story_info>Lippmann high resolution earth resistivity meter 4point light 10W provides quantitative information about induced polarity (IP) of the soil. It measures the phase shift between the current injected into the ground and the voltage seen at the potential electrodes. It has adequate power to drive Schlumberger soundings up to L/2 = 1000 m.</story_info>
+		 <story_images_folder>Lippmann NIT Suratkal</story_images_folder>
+</story>
+<story>
+         <story_title>NIOT Current meter</story_title>
+		 <story_header_image>NIOT Current Meter.jpg</story_header_image>
+		 <story_gallery_id>NIOTCM</story_gallery_id>
+		 <story_info>NIOT Current meter with Inductive modem Training </story_info>
+		 <story_images_folder>NIOT Current Meter</story_images_folder>
+</story>
+</news>
+
+ 
+<!-- <story>
+         <story_title></story_title>
+		 <story_header_image></story_header_image>
+		 <story_gallery_id></story_gallery_id>
+		 <story_info></story_info>
+		 <story_images_folder></story_images_folder>
+</story>  -->
+
